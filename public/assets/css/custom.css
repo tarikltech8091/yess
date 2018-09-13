@@ -1,0 +1,92 @@
+/*cursor pointer*/
+.cursor{
+cursor:pointer;
+}
+
+/*dashborad_menus*/
+.dashborad_menus{
+  height: 100px;
+  padding-top: 8px;
+}
+
+.report_view {
+  border-radius: 3px;
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05);
+  text-align: center;
+  width: 80%;
+}
+.report_view.reprt_color_1{
+  background: #f44336 none repeat scroll 0 0;
+  border-color:  #f44336;
+  
+}
+
+.report_view.reprt_color_2{
+  background: #1f6f43 none repeat scroll 0 0;
+  border-color:  #1f6f43;
+  
+}
+
+.report_view.reprt_color_3{
+  background: #0066cc none repeat scroll 0 0;
+  border-color:  #f4731d;
+  
+}
+
+.report_view.reprt_color_4{
+  background: #99ff66 none repeat scroll 0 0;
+  border-color:  #f4731d;
+  
+}
+
+
+
+.report_view .report_name{
+  color: white;
+  margin-bottom: 0;
+  padding-bottom: 6px;
+  text-align: center;
+}
+.report_name a{
+  
+    color: #ffffff;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.page_row_dash{
+   margin: 15px 15px;
+}
+
+.report_view.reprt_color_1 > p,.report_view.reprt_color_2 > p,.report_view.reprt_color_3 > p,.report_view.reprt_color_4 > p {
+  font-size: 12px;
+  width: 100%;
+}
+
+
+
+.report_view i {
+  color: #ffffff;
+  font-size: 45px;
+  height: 47px;
+  padding: 6px 0 0;
+}
+
+.report_view p a{
+  text-decoration: none;
+}
+
+
+#dashboard {
+background: #abb6ba none repeat scroll 0 0;
+border-left: 4px solid #0087c3;
+font-size: 18px;
+height: 27px;
+margin-bottom: 15px;
+text-align: center;
+width: 99%;
+}
+
+#dashboard .to {
+  color: #000000;
+}

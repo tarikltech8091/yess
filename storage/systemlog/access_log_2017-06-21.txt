@@ -1,0 +1,2 @@
+06-21-2017 | 11:02:39 |   192.168.4.23|user|Home|http://localhost/coupon/public|Mozilla Firefox|windows|||
+06-21-2017 | 11:02:46 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||

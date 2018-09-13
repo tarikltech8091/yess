@@ -1,0 +1,86 @@
+04-19-2017 | 12:44:36 |   192.168.4.23|user|Sign Up Page|http://localhost/coupon/public/sign-up/page|Mozilla Firefox|windows|||
+04-19-2017 | 12:45:11 |   192.168.4.23|user|Sign Up Page|http://localhost/coupon/public/sign-up/page|Mozilla Firefox|windows|||
+04-19-2017 | 12:48:29 |   192.168.4.23|user|Sign Up Page|http://localhost/coupon/public/sign-up/page|Mozilla Firefox|windows|||
+04-19-2017 | 12:48:47 |   192.168.4.23|user|Sign Up Page|http://localhost/coupon/public/sign-up/page|Mozilla Firefox|windows|||
+04-19-2017 | 12:49:01 |   192.168.4.23|user|Sign Up Page|http://localhost/coupon/public/sign-up/page|Mozilla Firefox|windows|||
+04-19-2017 | 12:49:14 |   192.168.4.23|user|Sign Up Page|http://localhost/coupon/public/sign-up/page|Mozilla Firefox|windows|||
+04-19-2017 | 12:50:20 |   192.168.4.23|user|Sign Up Page|http://localhost/coupon/public/sign-up/page|Mozilla Firefox|windows|||
+04-19-2017 | 12:51:51 |   192.168.4.23|user|Sign Up Page|http://localhost/coupon/public/sign-up/page|Mozilla Firefox|windows|||
+04-19-2017 | 12:52:07 |   192.168.4.23|user|Sign Up Page|http://localhost/coupon/public/sign-up/page|Mozilla Firefox|windows|||
+04-19-2017 | 12:52:36 |   192.168.4.23|user|Sign Up Page|http://localhost/coupon/public/sign-up/page|Mozilla Firefox|windows|||
+04-19-2017 | 12:52:51 |   192.168.4.23|user|Sign Up Page|http://localhost/coupon/public/sign-up/page|Mozilla Firefox|windows|||
+04-19-2017 | 12:53:11 |   192.168.4.23|user|Sign Up Page|http://localhost/coupon/public/sign-up/page|Mozilla Firefox|windows|||
+04-19-2017 | 12:53:28 |   192.168.4.23|user|Sign Up Page|http://localhost/coupon/public/sign-up/page|Mozilla Firefox|windows|||
+04-19-2017 | 13:06:23 |   192.168.4.23|user|Sign Up Page|http://localhost/coupon/public/sign-up/page|Mozilla Firefox|windows|||
+04-19-2017 | 13:06:44 |   192.168.4.23|user|Sign Up Page|http://localhost/coupon/public/sign-up/page|Mozilla Firefox|windows|||
+04-19-2017 | 13:10:14 |   192.168.4.23|user|Sign Up Page|http://localhost/coupon/public/sign-up/page|Mozilla Firefox|windows|||
+04-19-2017 | 13:10:59 |   192.168.4.23|user|Sign Up Page|http://localhost/coupon/public/sign-up/page|Mozilla Firefox|windows|||
+04-19-2017 | 13:11:28 |   192.168.4.23|user|Sign Up Page|http://localhost/coupon/public/sign-up/page|Mozilla Firefox|windows|||
+04-19-2017 | 13:13:18 |   192.168.4.23|user|Sign Up Page|http://localhost/coupon/public/sign-up/page|Mozilla Firefox|windows|||
+04-19-2017 | 13:13:49 |   192.168.4.23|user|Sign Up Page|http://localhost/coupon/public/sign-up/page|Mozilla Firefox|windows|||
+04-19-2017 | 13:14:30 |   192.168.4.23|user|Sign Up Page|http://localhost/coupon/public/sign-up/page|Mozilla Firefox|windows|||
+04-19-2017 | 13:15:10 |   192.168.4.23|user|Sign Up Page|http://localhost/coupon/public/sign-up/page|Mozilla Firefox|windows|||
+04-19-2017 | 13:15:39 |   192.168.4.23|user|Sign Up Page|http://localhost/coupon/public/sign-up/page|Mozilla Firefox|windows|||
+04-19-2017 | 13:16:05 |   192.168.4.23|user|Sign Up Page|http://localhost/coupon/public/sign-up/page|Mozilla Firefox|windows|||
+04-19-2017 | 13:17:46 |   192.168.4.23|user|Sign Up Page|http://localhost/coupon/public/sign-up/page|Mozilla Firefox|windows|||
+04-19-2017 | 13:18:10 |   192.168.4.23|user|Sign Up Page|http://localhost/coupon/public/sign-up/page|Mozilla Firefox|windows|||
+04-19-2017 | 13:18:54 |   192.168.4.23|user|Sign Up Page|http://localhost/coupon/public/sign-up/page|Mozilla Firefox|windows|||
+04-19-2017 | 13:45:05 |   192.168.4.23|user|Sign Up Page|http://localhost/coupon/public/sign-up/page|Mozilla Firefox|windows|||
+04-19-2017 | 13:46:07 |   192.168.4.23|user|Sign Up Page|http://localhost/coupon/public/sign-up/page|Mozilla Firefox|windows|||
+04-19-2017 | 13:46:18 |   192.168.4.23|user|Sign Up Page|http://localhost/coupon/public/sign-up/page|Mozilla Firefox|windows|||
+04-19-2017 | 13:48:09 |   192.168.4.23|user|Sign Up Page|http://localhost/coupon/public/sign-up/page|Mozilla Firefox|windows|||
+04-19-2017 | 13:53:15 |   192.168.4.23|user|Sign Up Page|http://localhost/coupon/public/sign-up/page|Mozilla Firefox|windows|||
+04-19-2017 | 13:54:15 |   192.168.4.23|user|Sign Up Page|http://localhost/coupon/public/sign-up/page|Mozilla Firefox|windows|||
+04-19-2017 | 13:54:56 |   192.168.4.23|user|Sign Up Page|http://localhost/coupon/public/sign-up/page|Mozilla Firefox|windows|||
+04-19-2017 | 14:10:31 |   192.168.4.23|user|Sign Up Page|http://localhost/coupon/public/sign-up/page|Mozilla Firefox|windows|||
+04-19-2017 | 14:11:01 |   192.168.4.23|user|Sign Up Page|http://localhost/coupon/public/sign-up/page|Mozilla Firefox|windows|||
+04-19-2017 | 14:11:29 |   192.168.4.23|user|Sign Up Page|http://localhost/coupon/public/sign-up/page|Mozilla Firefox|windows|||
+04-19-2017 | 14:11:53 |   192.168.4.23|user|Sign Up Page|http://localhost/coupon/public/sign-up/page|Mozilla Firefox|windows|||
+04-19-2017 | 14:19:26 |   192.168.4.23|user|Client Profile Page|http://localhost/coupon/public/client/profile/page|Mozilla Firefox|windows|||
+04-19-2017 | 15:39:54 |   192.168.4.23|user|Sign In Page|http://localhost/coupon/public/sign-in/page|Mozilla Firefox|windows|||
+04-19-2017 | 15:41:18 |   192.168.4.23|user|Sign In Page|http://localhost/coupon/public/sign-in/page|Mozilla Firefox|windows|||
+04-19-2017 | 15:41:36 |   192.168.4.23|user|Sign In Page|http://localhost/coupon/public/sign-in/page|Mozilla Firefox|windows|||
+04-19-2017 | 15:44:20 |   192.168.4.23|user|LogIn|http://localhost/coupon/public/sign-in/page|Mozilla Firefox|windows|||
+04-19-2017 | 15:44:28 |   192.168.4.23|user|Sign In Page|http://localhost/coupon/public/sign-in/page|Mozilla Firefox|windows|||
+04-19-2017 | 15:44:28 |   192.168.4.23|user|LogIn|http://localhost/coupon/public/sign-in/page|Mozilla Firefox|windows|||
+04-19-2017 | 15:44:31 |   192.168.4.23|user|Sign In Page|http://localhost/coupon/public/sign-in/page|Mozilla Firefox|windows|||
+04-19-2017 | 15:44:33 |   192.168.4.23|user|Sign In Page|http://localhost/coupon/public/sign-in/page|Mozilla Firefox|windows|||
+04-19-2017 | 15:44:42 |   192.168.4.23|user|LogIn|http://localhost/coupon/public/sign-in/page|Mozilla Firefox|windows|||
+04-19-2017 | 15:44:44 |   192.168.4.23|user|Sign In Page|http://localhost/coupon/public/sign-in/page|Mozilla Firefox|windows|||
+04-19-2017 | 15:45:21 |   192.168.4.23|user|LogIn|http://localhost/coupon/public/sign-in/page|Mozilla Firefox|windows|||
+04-19-2017 | 15:45:22 |   192.168.4.23|user|Sign In Page|http://localhost/coupon/public/sign-in/page|Mozilla Firefox|windows|||
+04-19-2017 | 15:58:51 |   192.168.4.23|user|Client Logout|http://localhost/coupon/public/client/logout/01767679544|Mozilla Firefox|windows|||
+04-19-2017 | 16:02:24 |   192.168.4.23|user|Sign In Page|http://localhost/coupon/public/sign-in/page|Mozilla Firefox|windows|||
+04-19-2017 | 16:02:31 |   192.168.4.23|user|LogIn|http://localhost/coupon/public/sign-in/page|Mozilla Firefox|windows|||
+04-19-2017 | 16:02:32 |   192.168.4.23|user|Sign In Page|http://localhost/coupon/public/sign-in/page|Mozilla Firefox|windows|||
+04-19-2017 | 16:02:43 |   192.168.4.23|user|Client Logout|http://localhost/coupon/public/client/logout/01767679544|Mozilla Firefox|windows|||
+04-19-2017 | 16:03:17 |   192.168.4.23|user|LogIn|http://localhost/coupon/public/sign-in/page|Mozilla Firefox|windows|||
+04-19-2017 | 16:03:18 |   192.168.4.23|user|Sign In Page|http://localhost/coupon/public/sign-in/page|Mozilla Firefox|windows|||
+04-19-2017 | 16:06:24 |   192.168.4.23|user|Sign In Page|http://localhost/coupon/public/sign-in/page|Mozilla Firefox|windows|||
+04-19-2017 | 16:07:15 |   192.168.4.23|user|Sign In Page|http://localhost/coupon/public/sign-in/page|Mozilla Firefox|windows|||
+04-19-2017 | 16:07:19 |   192.168.4.23|user|Sign In Page|http://localhost/coupon/public/sign-in/page|Mozilla Firefox|windows|||
+04-19-2017 | 16:07:21 |   192.168.4.23|user|Sign In Page|http://localhost/coupon/public/sign-in/page|Mozilla Firefox|windows|||
+04-19-2017 | 16:10:55 |   192.168.4.23|user|Sign In Page|http://localhost/coupon/public/sign-in/page|Mozilla Firefox|windows|||
+04-19-2017 | 16:11:04 |   192.168.4.23|user|Sign In Page|http://localhost/coupon/public/sign-in/page|Mozilla Firefox|windows|||
+04-19-2017 | 16:12:35 |   192.168.4.23|user|Client Logout|http://localhost/coupon/public/client/logout/01767679544|Mozilla Firefox|windows|||
+04-19-2017 | 16:12:49 |   192.168.4.23|user|Sign In Page|http://localhost/coupon/public/sign-in/page|Mozilla Firefox|windows|||
+04-19-2017 | 16:13:00 |   192.168.4.23|user|Sign In Page|http://localhost/coupon/public/sign-in/page|Mozilla Firefox|windows|||
+04-19-2017 | 16:13:03 |   192.168.4.23|user|Sign In Page|http://localhost/coupon/public/sign-in/page|Mozilla Firefox|windows|||
+04-19-2017 | 16:13:09 |   192.168.4.23|user|Sign In Page|http://localhost/coupon/public/sign-in/page|Mozilla Firefox|windows|||
+04-19-2017 | 16:14:11 |   192.168.4.23|user|Sign In Page|http://localhost/coupon/public/sign-in/page|Mozilla Firefox|windows|||
+04-19-2017 | 16:14:48 |   192.168.4.23|user|Sign In Page|http://localhost/coupon/public/sign-in/page|Mozilla Firefox|windows|||
+04-19-2017 | 16:14:52 |   192.168.4.23|user|Sign In Page|http://localhost/coupon/public/sign-in/page|Mozilla Firefox|windows|||
+04-19-2017 | 16:15:00 |   192.168.4.23|user|LogIn|http://localhost/coupon/public/sign-in/page|Mozilla Firefox|windows|||
+04-19-2017 | 16:15:01 |   192.168.4.23|user|Sign In Page|http://localhost/coupon/public/sign-in/page|Mozilla Firefox|windows|||
+04-19-2017 | 16:15:11 |   192.168.4.23|user|Client Logout|http://localhost/coupon/public/client/logout/01767679544|Mozilla Firefox|windows|||
+04-19-2017 | 16:15:16 |   192.168.4.23|user|Sign In Page|http://localhost/coupon/public/sign-in/page|Mozilla Firefox|windows|||
+04-19-2017 | 16:15:24 |   192.168.4.23|user|LogIn|http://localhost/coupon/public/sign-in/page|Mozilla Firefox|windows|||
+04-19-2017 | 16:15:28 |   192.168.4.23|user|Sign In Page|http://localhost/coupon/public/sign-in/page|Mozilla Firefox|windows|||
+04-19-2017 | 16:27:04 |   192.168.4.23|user|LogIn|http://localhost/coupon/public/sign-in/page|Mozilla Firefox|windows|||
+04-19-2017 | 16:27:05 |   192.168.4.23|user|Sign In Page|http://localhost/coupon/public/sign-in/page|Mozilla Firefox|windows|||
+04-19-2017 | 16:42:43 |   192.168.4.23|user|Client Logout|http://localhost/coupon/public/client/logout/01767679544|Mozilla Firefox|windows|||
+04-19-2017 | 16:42:48 |   192.168.4.23|user|Sign In Page|http://localhost/coupon/public/sign-in/page|Mozilla Firefox|windows|||
+04-19-2017 | 16:42:56 |   192.168.4.23|user|LogIn|http://localhost/coupon/public/sign-in/page|Mozilla Firefox|windows|||
+04-19-2017 | 16:42:57 |   192.168.4.23|user|Sign In Page|http://localhost/coupon/public/sign-in/page|Mozilla Firefox|windows|||
+04-19-2017 | 16:43:03 |   192.168.4.23|user|LogIn|http://localhost/coupon/public/sign-in/page|Mozilla Firefox|windows|||
+04-19-2017 | 16:43:04 |   192.168.4.23|user|Sign In Page|http://localhost/coupon/public/sign-in/page|Mozilla Firefox|windows|||

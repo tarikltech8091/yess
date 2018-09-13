@@ -1,0 +1,3 @@
+05-16-2017 | 16:07:10 |   192.168.4.23|user|http://localhost/coupon/public/coupon/api/v1/OTPConfirmation|Message : Undefined index: mobile_no, File : G:\xampp\htdocs\coupon\app\Http\Controllers\ApiController.php, Line : 893
+05-16-2017 | 17:37:08 |   192.168.4.23|user|http://localhost/coupon/public/coupon/api/v1/getAccessToken|Message : Undefined index: app_key, File : G:\xampp\htdocs\coupon\app\Http\Controllers\ApiController.php, Line : 31
+05-16-2017 | 17:37:42 |   192.168.4.23|user|http://localhost/coupon/public/coupon/api/v1/getAccessToken|Message : Undefined index: app_key, File : G:\xampp\htdocs\coupon\app\Http\Controllers\ApiController.php, Line : 31

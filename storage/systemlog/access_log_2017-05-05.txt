@@ -1,0 +1,16 @@
+05-05-2017 | 00:00:04 |   192.168.0.102|user|LogIn|http://localhost/coupon/public/forget/password|Mozilla Firefox|windows|||
+05-05-2017 | 00:00:13 |   192.168.0.102|user|Forgot Password Confirm|http://localhost/coupon/public/forget/password|Mozilla Firefox|windows|||
+05-05-2017 | 00:05:42 |   192.168.0.102|user|Forgot Password Confirm|http://localhost/coupon/public/forget/password|Mozilla Firefox|windows|||
+05-05-2017 | 00:07:47 |   192.168.0.102|user|Forget Password Mail|http://localhost/coupon/public/forget-password-mail|Mozilla Firefox|windows|||
+05-05-2017 | 00:08:18 |   192.168.0.102|user|Forget Password Mail|http://localhost/coupon/public/forget-password-mail|Mozilla Firefox|windows|||
+05-05-2017 | 00:09:50 |   192.168.0.102|user|Forget Password Mail|http://localhost/coupon/public/forget-password-mail|Mozilla Firefox|windows|||
+05-05-2017 | 00:09:56 |   192.168.0.102|user|Forget Password Mail|http://localhost/coupon/public/forget-password-mail|Mozilla Firefox|windows|||
+05-05-2017 | 00:10:07 |   192.168.0.102|user|LogIn|http://localhost/coupon/public/login|Mozilla Firefox|windows|||
+05-05-2017 | 00:11:09 |   192.168.0.102|user|Forget Password Mail|http://localhost/coupon/public/forget-password-mail|Mozilla Firefox|windows|||
+05-05-2017 | 00:11:39 |   192.168.0.102|user|Forget Password Mail|http://localhost/coupon/public/forget-password-mail|Mozilla Firefox|windows|||
+05-05-2017 | 00:13:38 |   192.168.0.102|user|LogIn|http://localhost/coupon/public/forget/password|Mozilla Firefox|windows|||
+05-05-2017 | 00:13:44 |   192.168.0.102|user|Forgot Password Confirm|http://localhost/coupon/public/forget/password|Mozilla Firefox|windows|||
+05-05-2017 | 00:16:17 |   192.168.0.102|user|Forgot Password Confirm|http://localhost/coupon/public/forget/password|Mozilla Firefox|windows|||
+05-05-2017 | 00:18:03 |   192.168.0.102|user|Forgot Password Confirm|http://localhost/coupon/public/forget/password|Mozilla Firefox|windows|||
+05-05-2017 | 00:19:42 |   192.168.0.102|user|Forgot Password Confirm|http://localhost/coupon/public/forget/password|Mozilla Firefox|windows|||
+05-05-2017 | 00:20:59 |   192.168.0.102|user|Forgot Password Confirm|http://localhost/coupon/public/forget/password|Mozilla Firefox|windows|||

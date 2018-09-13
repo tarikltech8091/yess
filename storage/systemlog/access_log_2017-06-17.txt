@@ -1,0 +1,145 @@
+06-17-2017 | 10:54:29 |   192.168.4.23|user|Home|http://localhost/coupon/public|Mozilla Firefox|windows|||
+06-17-2017 | 10:54:37 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-17-2017 | 11:02:16 |   192.168.4.23|user|AdminLogIn|http://localhost/coupon/public/adminlogin|Mozilla Firefox|windows|||
+06-17-2017 | 11:02:18 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-17-2017 | 11:02:20 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-17-2017 | 11:02:24 |   192.168.4.23|user|LogIn|http://localhost/coupon/public/login|Mozilla Firefox|windows|||
+06-17-2017 | 11:02:27 |   192.168.4.23|user|Dashboard|http://localhost/coupon/public/dashboard/admin|Mozilla Firefox|windows|||
+06-17-2017 | 11:02:29 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-17-2017 | 11:02:33 |   192.168.4.23|user|All Coupon List|http://localhost/coupon/public/dashboard/all-coupon/list|Mozilla Firefox|windows|||
+06-17-2017 | 11:02:35 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-17-2017 | 11:02:46 |   192.168.4.23|user|Coupon Edit|http://localhost/coupon/public/dashboard/coupon/edit-/1|Mozilla Firefox|windows|||
+06-17-2017 | 11:02:48 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-17-2017 | 11:04:24 |   192.168.4.23|user|Coupon Edit|http://localhost/coupon/public/dashboard/coupon/edit-/1|Mozilla Firefox|windows|||
+06-17-2017 | 11:04:25 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-17-2017 | 11:04:54 |   192.168.4.23|user|Coupon Edit|http://localhost/coupon/public/dashboard/coupon/edit-/1|Mozilla Firefox|windows|||
+06-17-2017 | 11:04:56 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-17-2017 | 11:09:53 |   192.168.4.23|user|Home|http://localhost/coupon/public|Mozilla Firefox|windows|||
+06-17-2017 | 11:09:55 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-17-2017 | 11:10:09 |   192.168.4.23|user|Client Profile Page|http://localhost/coupon/public/client/profile/page/id-33|Mozilla Firefox|windows|||
+06-17-2017 | 11:10:10 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-17-2017 | 11:10:14 |   192.168.4.23|user|Home|http://localhost/coupon/public|Mozilla Firefox|windows|||
+06-17-2017 | 11:10:16 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-17-2017 | 11:10:23 |   192.168.4.23|user|Merchant Branch View|http://localhost/coupon/public/merchant/branch-view/page/mid-27|Mozilla Firefox|windows|||
+06-17-2017 | 11:10:23 |   192.168.4.23|user|Merchant Branch View|http://localhost/coupon/public/merchant/branch-view/page/mid-27|Mozilla Firefox|windows|||
+06-17-2017 | 11:10:24 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-17-2017 | 11:10:34 |   192.168.4.23|user|Active Coupon|http://localhost/coupon/public/active/deal/coupon-apex33921/mobile-01212582254|Mozilla Firefox|windows|||
+06-17-2017 | 11:10:35 |   192.168.4.23|user|Merchant Branch View|http://localhost/coupon/public/merchant/branch-view/page/mid-27|Mozilla Firefox|windows|||
+06-17-2017 | 11:10:37 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-17-2017 | 11:10:41 |   192.168.4.23|user|Client Profile Page|http://localhost/coupon/public/client/profile/page/id-33|Mozilla Firefox|windows|||
+06-17-2017 | 11:10:43 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-17-2017 | 11:10:45 |   192.168.4.23|user|Coupon Amount And OTP Page|http://localhost/coupon/public/coupon/amount/otp/ccode-apex33921/cmobile-01212582254/tid-28|Mozilla Firefox|windows|||
+06-17-2017 | 11:10:47 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-17-2017 | 11:10:52 |   192.168.4.23|user|Coupon Amount Submit|http://localhost/coupon/public/coupon/amount/submit|Mozilla Firefox|windows|||
+06-17-2017 | 11:10:53 |   192.168.4.23|user|Coupon Amount And OTP Page|http://localhost/coupon/public/coupon/amount/otp/ccode-apex33921/cmobile-01212582254/tid-28|Mozilla Firefox|windows|||
+06-17-2017 | 11:10:55 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-17-2017 | 11:13:43 |   192.168.4.23|user|Search Coupon|http://localhost/coupon/public/search/coupon|Mozilla Firefox|windows|||
+06-17-2017 | 11:13:45 |   192.168.4.23|user|Search View|http://localhost/coupon/public/search-result/text-bata|Mozilla Firefox|windows|||
+06-17-2017 | 11:13:46 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-17-2017 | 11:13:50 |   192.168.4.23|user|Active Coupon|http://localhost/coupon/public/active/deal/coupon-bt1703/mobile-01212582254|Mozilla Firefox|windows|||
+06-17-2017 | 11:13:52 |   192.168.4.23|user|Search View|http://localhost/coupon/public/search-result/text-bata|Mozilla Firefox|windows|||
+06-17-2017 | 11:13:53 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-17-2017 | 11:13:57 |   192.168.4.23|user|Client Profile Page|http://localhost/coupon/public/client/profile/page/id-33|Mozilla Firefox|windows|||
+06-17-2017 | 11:13:58 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-17-2017 | 11:14:02 |   192.168.4.23|user|Coupon Amount And OTP Page|http://localhost/coupon/public/coupon/amount/otp/ccode-bt1703/cmobile-01212582254/tid-29|Mozilla Firefox|windows|||
+06-17-2017 | 11:14:04 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-17-2017 | 11:14:13 |   192.168.4.23|user|Coupon Amount Submit|http://localhost/coupon/public/coupon/amount/submit|Mozilla Firefox|windows|||
+06-17-2017 | 11:15:26 |   192.168.4.23|user|Coupon Amount Submit|http://localhost/coupon/public/coupon/amount/submit|Mozilla Firefox|windows|||
+06-17-2017 | 11:15:28 |   192.168.4.23|user|Coupon Amount And OTP Page|http://localhost/coupon/public/coupon/amount/otp/ccode-bt1703/cmobile-01212582254/tid-29|Mozilla Firefox|windows|||
+06-17-2017 | 11:15:30 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-17-2017 | 11:16:01 |   192.168.4.23|user|Coupon Amount Submit|http://localhost/coupon/public/coupon/amount/submit|Mozilla Firefox|windows|||
+06-17-2017 | 11:17:03 |   192.168.4.23|user|Coupon Amount Submit|http://localhost/coupon/public/coupon/amount/submit|Mozilla Firefox|windows|||
+06-17-2017 | 11:17:04 |   192.168.4.23|user|Coupon Amount And OTP Page|http://localhost/coupon/public/coupon/amount/otp/ccode-bt1703/cmobile-01212582254/tid-29|Mozilla Firefox|windows|||
+06-17-2017 | 11:17:06 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-17-2017 | 11:34:45 |   192.168.4.23|user|AdminLogIn|http://localhost/coupon/public/adminlogin|Mozilla Firefox|windows|||
+06-17-2017 | 11:34:47 |   192.168.4.23|user|Dashboard|http://localhost/coupon/public/dashboard/admin|Mozilla Firefox|windows|||
+06-17-2017 | 11:34:48 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-17-2017 | 11:34:58 |   192.168.4.23|user|All Coupon List|http://localhost/coupon/public/dashboard/all-coupon/list|Mozilla Firefox|windows|||
+06-17-2017 | 11:34:59 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-17-2017 | 11:35:06 |   192.168.4.23|user|Coupon Edit|http://localhost/coupon/public/dashboard/coupon/edit-/15|Mozilla Firefox|windows|||
+06-17-2017 | 11:35:07 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-17-2017 | 11:37:25 |   192.168.4.23|user|All Coupon List|http://localhost/coupon/public/dashboard/all-coupon/list|Mozilla Firefox|windows|||
+06-17-2017 | 11:37:27 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-17-2017 | 11:37:31 |   192.168.4.23|user|Coupon Edit|http://localhost/coupon/public/dashboard/coupon/edit-1|Mozilla Firefox|windows|||
+06-17-2017 | 11:37:32 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-17-2017 | 11:38:15 |   192.168.4.23|user|Coupon Edit|http://localhost/coupon/public/dashboard/coupon/edit-1|Mozilla Firefox|windows|||
+06-17-2017 | 11:38:16 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-17-2017 | 11:38:50 |   192.168.4.23|user|Transaction Coupon Update|http://localhost/coupon/public/dashboard/transaction/coupon/update-1|Mozilla Firefox|windows|||
+06-17-2017 | 11:39:45 |   192.168.4.23|user|Transaction Coupon Update|http://localhost/coupon/public/dashboard/transaction/coupon/update-1|Mozilla Firefox|windows|||
+06-17-2017 | 11:39:48 |   192.168.4.23|user|All Coupon List|http://localhost/coupon/public/dashboard/all-coupon/list|Mozilla Firefox|windows|||
+06-17-2017 | 11:39:49 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-17-2017 | 11:49:12 |   192.168.4.23|user|Home|http://localhost/coupon/public|Mozilla Firefox|windows|||
+06-17-2017 | 11:49:14 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-17-2017 | 11:50:35 |   192.168.4.23|user|AdminLogIn|http://localhost/coupon/public/adminlogin|Mozilla Firefox|windows|||
+06-17-2017 | 11:50:37 |   192.168.4.23|user|Dashboard|http://localhost/coupon/public/dashboard/admin|Mozilla Firefox|windows|||
+06-17-2017 | 11:50:38 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-17-2017 | 11:50:47 |   192.168.4.23|user|Merchant Branch View|http://localhost/coupon/public/merchant/branch-view/page/mid-1|Mozilla Firefox|windows|||
+06-17-2017 | 11:50:48 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-17-2017 | 11:50:50 |   192.168.4.23|user|Merchant Branch View|http://localhost/coupon/public/merchant/branch-view/page/mid-1|Mozilla Firefox|windows|||
+06-17-2017 | 11:54:57 |   192.168.4.23|user|Merchant Branch View|http://localhost/coupon/public/merchant/branch-view/page/mid-1|Mozilla Firefox|windows|||
+06-17-2017 | 11:54:58 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-17-2017 | 11:55:02 |   192.168.4.23|user|Search Coupon|http://localhost/coupon/public/search/coupon|Mozilla Firefox|windows|||
+06-17-2017 | 11:55:04 |   192.168.4.23|user|Search View|http://localhost/coupon/public/search-result/text-bata|Mozilla Firefox|windows|||
+06-17-2017 | 11:55:05 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-17-2017 | 11:55:11 |   192.168.4.23|user|All Coupon List|http://localhost/coupon/public/dashboard/all-coupon/list|Mozilla Firefox|windows|||
+06-17-2017 | 11:55:12 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-17-2017 | 11:55:16 |   192.168.4.23|user|Coupon Edit|http://localhost/coupon/public/dashboard/coupon/edit-1|Mozilla Firefox|windows|||
+06-17-2017 | 11:55:17 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-17-2017 | 11:56:19 |   192.168.4.23|user|Transaction Coupon Update|http://localhost/coupon/public/dashboard/transaction/coupon/update-1|Mozilla Firefox|windows|||
+06-17-2017 | 11:56:21 |   192.168.4.23|user|All Coupon List|http://localhost/coupon/public/dashboard/all-coupon/list|Mozilla Firefox|windows|||
+06-17-2017 | 11:56:23 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-17-2017 | 11:56:34 |   192.168.4.23|user|Home|http://localhost/coupon/public|Mozilla Firefox|windows|||
+06-17-2017 | 11:56:35 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-17-2017 | 11:56:49 |   192.168.4.23|user|Search Coupon|http://localhost/coupon/public/search/coupon|Mozilla Firefox|windows|||
+06-17-2017 | 11:56:50 |   192.168.4.23|user|Search View|http://localhost/coupon/public/search-result/text-bata|Mozilla Firefox|windows|||
+06-17-2017 | 11:56:51 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-17-2017 | 11:56:58 |   192.168.4.23|user|Merchant View|http://localhost/coupon/public/merchant-view/page|Mozilla Firefox|windows|||
+06-17-2017 | 11:56:59 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-17-2017 | 11:57:04 |   192.168.4.23|user|Home|http://localhost/coupon/public|Mozilla Firefox|windows|||
+06-17-2017 | 11:57:06 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-17-2017 | 11:57:09 |   192.168.4.23|user|Merchant All Coupon|http://localhost/coupon/public/all-merchant/coupon/page/cid-/1/subcid-6|Mozilla Firefox|windows|||
+06-17-2017 | 11:57:11 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-17-2017 | 11:57:37 |   192.168.4.23|user|Merchant Branch View|http://localhost/coupon/public/merchant/branch-view/page/mid-1|Mozilla Firefox|windows|||
+06-17-2017 | 11:57:39 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-17-2017 | 11:57:46 |   192.168.4.23|user|Home|http://localhost/coupon/public|Mozilla Firefox|windows|||
+06-17-2017 | 11:57:48 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-17-2017 | 11:58:02 |   192.168.4.23|user|Single Page|http://localhost/coupon/public/single-page/coupon_id-1|Mozilla Firefox|windows|||
+06-17-2017 | 11:58:04 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-17-2017 | 12:14:01 |   192.168.4.23|user|FAQ Page |http://localhost/coupon/public/faq/page|Mozilla Firefox|windows|||
+06-17-2017 | 12:14:03 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-17-2017 | 12:14:26 |   192.168.4.23|user|FAQ Page |http://localhost/coupon/public/faq/page|Mozilla Firefox|windows|||
+06-17-2017 | 12:14:27 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-17-2017 | 12:14:44 |   192.168.4.23|user|FAQ Page |http://localhost/coupon/public/faq/page|Mozilla Firefox|windows|||
+06-17-2017 | 12:14:45 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-17-2017 | 12:15:23 |   192.168.4.23|user|FAQ Page |http://localhost/coupon/public/faq/page|Mozilla Firefox|windows|||
+06-17-2017 | 12:15:24 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-17-2017 | 12:15:35 |   192.168.4.23|user|FAQ Page |http://localhost/coupon/public/faq/page|Mozilla Firefox|windows|||
+06-17-2017 | 12:15:36 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-17-2017 | 12:15:56 |   192.168.4.23|user|FAQ Page |http://localhost/coupon/public/faq/page|Mozilla Firefox|windows|||
+06-17-2017 | 12:15:57 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-17-2017 | 12:22:42 |   192.168.4.23|user|FAQ Page |http://localhost/coupon/public/faq/page|Mozilla Firefox|windows|||
+06-17-2017 | 12:22:44 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-17-2017 | 12:24:32 |   192.168.4.23|user|FAQ Page |http://localhost/coupon/public/faq/page|Mozilla Firefox|windows|||
+06-17-2017 | 12:24:33 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-17-2017 | 12:25:08 |   192.168.4.23|user|FAQ Page |http://localhost/coupon/public/faq/page|Mozilla Firefox|windows|||
+06-17-2017 | 12:25:10 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-17-2017 | 12:28:28 |   192.168.4.23|user|FAQ Page |http://localhost/coupon/public/faq/page|Mozilla Firefox|windows|||
+06-17-2017 | 12:28:29 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-17-2017 | 12:28:40 |   192.168.4.23|user|FAQ Page |http://localhost/coupon/public/faq/page|Mozilla Firefox|windows|||
+06-17-2017 | 12:28:42 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-17-2017 | 12:29:22 |   192.168.4.23|user|FAQ Page |http://localhost/coupon/public/faq/page|Mozilla Firefox|windows|||
+06-17-2017 | 12:29:24 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-17-2017 | 12:29:55 |   192.168.4.23|user|FAQ Page |http://localhost/coupon/public/faq/page|Mozilla Firefox|windows|||
+06-17-2017 | 12:29:57 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-17-2017 | 12:31:09 |   192.168.4.23|user|FAQ Page |http://localhost/coupon/public/faq/page|Mozilla Firefox|windows|||
+06-17-2017 | 12:31:10 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-17-2017 | 12:34:57 |   192.168.4.23|user|FAQ Page |http://localhost/coupon/public/faq/page|Mozilla Firefox|windows|||
+06-17-2017 | 12:34:59 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-17-2017 | 12:35:02 |   192.168.4.23|user|FAQ Page |http://localhost/coupon/public/faq/page|Mozilla Firefox|windows|||
+06-17-2017 | 12:35:03 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-17-2017 | 12:35:56 |   192.168.4.23|user|FAQ Page |http://localhost/coupon/public/faq/page|Mozilla Firefox|windows|||
+06-17-2017 | 12:35:57 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-17-2017 | 14:12:13 |   192.168.4.23|user|Home|http://localhost/coupon/public|Mozilla Firefox|windows|||
+06-17-2017 | 14:12:21 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-17-2017 | 14:54:52 |   192.168.4.23|user|FAQ Page |http://localhost/coupon/public/faq/page|Mozilla Firefox|windows|||
+06-17-2017 | 14:55:00 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||

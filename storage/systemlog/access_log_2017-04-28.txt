@@ -1,0 +1,2 @@
+04-28-2017 | 23:51:53 |   192.168.150.6|user|LogIn|http://localhost/coupon/public/login|Google Chrome|windows|||
+04-28-2017 | 23:52:00 |   192.168.150.6|user|LogIn|http://localhost/coupon/public/login|Google Chrome|windows|||

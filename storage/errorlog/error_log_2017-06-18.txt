@@ -1,0 +1,1 @@
+06-18-2017 | 11:30:26 |   192.168.4.23|3|http://localhost/coupon/public/new/coupon/amount/submit|Message : Undefined variable: coupon_code, File : G:\xampp\htdocs\coupon\app\Http\Controllers\CouponController.php, Line : 1190

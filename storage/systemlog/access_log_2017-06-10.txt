@@ -1,0 +1,183 @@
+06-10-2017 | 13:02:05 |   192.168.4.23|user|Home|http://localhost/coupon/public|Mozilla Firefox|windows|||
+06-10-2017 | 13:02:13 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-10-2017 | 13:06:21 |   192.168.4.23|user|Home|http://localhost/coupon/public|Mozilla Firefox|windows|||
+06-10-2017 | 13:06:23 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-10-2017 | 13:11:48 |   192.168.4.23|user|Home|http://localhost/coupon/public|Mozilla Firefox|windows|||
+06-10-2017 | 13:11:51 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-10-2017 | 13:13:43 |   192.168.4.23|user|Home|http://localhost/coupon/public|Mozilla Firefox|windows|||
+06-10-2017 | 13:13:45 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-10-2017 | 13:17:22 |   192.168.4.23|user|Home|http://localhost/coupon/public|Mozilla Firefox|windows|||
+06-10-2017 | 13:17:24 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-10-2017 | 13:17:59 |   192.168.4.23|user|Home|http://localhost/coupon/public|Mozilla Firefox|windows|||
+06-10-2017 | 13:18:01 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-10-2017 | 13:18:09 |   192.168.4.23|user|Home|http://localhost/coupon/public|Mozilla Firefox|windows|||
+06-10-2017 | 13:18:10 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-10-2017 | 13:18:56 |   192.168.4.23|user|Home|http://localhost/coupon/public|Mozilla Firefox|windows|||
+06-10-2017 | 13:18:57 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-10-2017 | 13:19:46 |   192.168.4.23|user|Home|http://localhost/coupon/public|Mozilla Firefox|windows|||
+06-10-2017 | 13:19:47 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-10-2017 | 13:20:02 |   192.168.4.23|user|Home|http://localhost/coupon/public|Mozilla Firefox|windows|||
+06-10-2017 | 13:20:03 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-10-2017 | 15:32:55 |   192.168.4.23|user|Home|http://localhost/coupon/public|Mozilla Firefox|windows|||
+06-10-2017 | 15:33:02 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-10-2017 | 15:33:07 |   192.168.4.23|user|Sign In Page|http://localhost/coupon/public/sign-in/page|Mozilla Firefox|windows|||
+06-10-2017 | 15:33:08 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-10-2017 | 15:33:21 |   192.168.4.23|user|LogIn|http://localhost/coupon/public/sign-in/page|Mozilla Firefox|windows|||
+06-10-2017 | 15:33:24 |   192.168.4.23|user|Home|http://localhost/coupon/public|Mozilla Firefox|windows|||
+06-10-2017 | 15:33:25 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-10-2017 | 15:33:31 |   192.168.4.23|user|Sign In Page|http://localhost/coupon/public/sign-in/page|Mozilla Firefox|windows|||
+06-10-2017 | 15:33:33 |   192.168.4.23|user|Home|http://localhost/coupon/public|Mozilla Firefox|windows|||
+06-10-2017 | 15:33:35 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-10-2017 | 15:33:40 |   192.168.4.23|user|Sign In Page|http://localhost/coupon/public/sign-in/page|Mozilla Firefox|windows|||
+06-10-2017 | 15:33:41 |   192.168.4.23|user|Home|http://localhost/coupon/public|Mozilla Firefox|windows|||
+06-10-2017 | 15:33:42 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-10-2017 | 15:33:54 |   192.168.4.23|user|Home|http://localhost/coupon/public|Google Chrome|windows|||
+06-10-2017 | 15:33:56 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Google Chrome|windows|||
+06-10-2017 | 15:34:08 |   192.168.4.23|user|Sign In Page|http://localhost/coupon/public/sign-in/page|Google Chrome|windows|||
+06-10-2017 | 15:34:09 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Google Chrome|windows|||
+06-10-2017 | 15:34:20 |   192.168.4.23|user|LogIn|http://localhost/coupon/public/sign-in/page|Google Chrome|windows|||
+06-10-2017 | 15:34:22 |   192.168.4.23|user|Home|http://localhost/coupon/public|Google Chrome|windows|||
+06-10-2017 | 15:34:23 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Google Chrome|windows|||
+06-10-2017 | 15:34:27 |   192.168.4.23|user|Sign In Page|http://localhost/coupon/public/sign-in/page|Google Chrome|windows|||
+06-10-2017 | 15:34:28 |   192.168.4.23|user|Home|http://localhost/coupon/public|Google Chrome|windows|||
+06-10-2017 | 15:34:29 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Google Chrome|windows|||
+06-10-2017 | 15:34:41 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Google Chrome|windows|||
+06-10-2017 | 15:34:42 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Google Chrome|windows|||
+06-10-2017 | 15:34:50 |   192.168.4.23|user|AdminLogIn|http://localhost/coupon/public/adminlogin|Google Chrome|windows|||
+06-10-2017 | 15:34:53 |   192.168.4.23|user|Dashboard|http://localhost/coupon/public/dashboard/admin|Google Chrome|windows|||
+06-10-2017 | 15:34:57 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Google Chrome|windows|||
+06-10-2017 | 15:35:03 |   192.168.4.23|user|Logout|http://localhost/coupon/public/logout|Google Chrome|windows|||
+06-10-2017 | 15:35:06 |   192.168.4.23|user|AdminLogIn|http://localhost/coupon/public/adminlogin|Google Chrome|windows|||
+06-10-2017 | 15:35:08 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Google Chrome|windows|||
+06-10-2017 | 15:35:09 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Google Chrome|windows|||
+06-10-2017 | 15:44:43 |   192.168.4.23|user|Home|http://localhost/coupon/public|Mozilla Firefox|windows|||
+06-10-2017 | 15:44:45 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-10-2017 | 15:45:28 |   192.168.4.23|user|Home|http://localhost/coupon/public|Mozilla Firefox|windows|||
+06-10-2017 | 15:45:30 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-10-2017 | 15:45:47 |   192.168.4.23|user|Home|http://localhost/coupon/public|Mozilla Firefox|windows|||
+06-10-2017 | 15:45:48 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-10-2017 | 15:46:08 |   192.168.4.23|user|Home|http://localhost/coupon/public|Mozilla Firefox|windows|||
+06-10-2017 | 15:46:14 |   192.168.4.23|user|Home|http://localhost/coupon/public|Mozilla Firefox|windows|||
+06-10-2017 | 15:46:15 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-10-2017 | 15:46:54 |   192.168.4.23|user|Home|http://localhost/coupon/public|Mozilla Firefox|windows|||
+06-10-2017 | 15:46:55 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-10-2017 | 15:47:21 |   192.168.4.23|user|Home|http://localhost/coupon/public|Mozilla Firefox|windows|||
+06-10-2017 | 15:47:22 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-10-2017 | 15:47:32 |   192.168.4.23|user|Home|http://localhost/coupon/public|Mozilla Firefox|windows|||
+06-10-2017 | 15:47:34 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-10-2017 | 15:49:29 |   192.168.4.23|user|Home|http://localhost/coupon/public|Mozilla Firefox|windows|||
+06-10-2017 | 15:49:30 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-10-2017 | 15:50:26 |   192.168.4.23|user|Home|http://localhost/coupon/public|Mozilla Firefox|windows|||
+06-10-2017 | 15:50:29 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-10-2017 | 15:50:41 |   192.168.4.23|user|Home|http://localhost/coupon/public|Mozilla Firefox|windows|||
+06-10-2017 | 15:50:42 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-10-2017 | 15:51:13 |   192.168.4.23|user|Home|http://localhost/coupon/public|Mozilla Firefox|windows|||
+06-10-2017 | 15:51:15 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-10-2017 | 15:51:31 |   192.168.4.23|user|Home|http://localhost/coupon/public|Mozilla Firefox|windows|||
+06-10-2017 | 15:51:33 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-10-2017 | 15:51:37 |   192.168.4.23|user|Home|http://localhost/coupon/public|Mozilla Firefox|windows|||
+06-10-2017 | 15:51:38 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-10-2017 | 15:52:05 |   192.168.4.23|user|Home|http://localhost/coupon/public|Mozilla Firefox|windows|||
+06-10-2017 | 15:52:07 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-10-2017 | 15:52:22 |   192.168.4.23|user|Home|http://localhost/coupon/public|Mozilla Firefox|windows|||
+06-10-2017 | 15:52:24 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-10-2017 | 15:53:06 |   192.168.4.23|user|Home|http://localhost/coupon/public|Mozilla Firefox|windows|||
+06-10-2017 | 15:53:08 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-10-2017 | 15:53:36 |   192.168.4.23|user|Home|http://localhost/coupon/public|Mozilla Firefox|windows|||
+06-10-2017 | 15:53:38 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-10-2017 | 15:54:39 |   192.168.4.23|user|Home|http://localhost/coupon/public|Mozilla Firefox|windows|||
+06-10-2017 | 15:54:47 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-10-2017 | 15:56:00 |   192.168.4.23|user|Home|http://localhost/coupon/public|Mozilla Firefox|windows|||
+06-10-2017 | 15:56:03 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-10-2017 | 15:56:28 |   192.168.4.23|user|Home|http://localhost/coupon/public|Mozilla Firefox|windows|||
+06-10-2017 | 15:56:34 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-10-2017 | 15:57:01 |   192.168.4.23|user|Home|http://localhost/coupon/public|Mozilla Firefox|windows|||
+06-10-2017 | 15:57:02 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-10-2017 | 15:57:25 |   192.168.4.23|user|Home|http://localhost/coupon/public|Mozilla Firefox|windows|||
+06-10-2017 | 15:57:27 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-10-2017 | 15:58:47 |   192.168.4.23|user|Home|http://localhost/coupon/public|Mozilla Firefox|windows|||
+06-10-2017 | 15:58:49 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-10-2017 | 16:01:02 |   192.168.4.23|user|Home|http://localhost/coupon/public|Mozilla Firefox|windows|||
+06-10-2017 | 16:01:04 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-10-2017 | 16:02:16 |   192.168.4.23|user|Home|http://localhost/coupon/public|Mozilla Firefox|windows|||
+06-10-2017 | 16:02:22 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-10-2017 | 16:02:29 |   192.168.4.23|user|Home|http://localhost/coupon/public|Mozilla Firefox|windows|||
+06-10-2017 | 16:02:30 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-10-2017 | 16:09:06 |   192.168.4.23|user|Home|http://localhost/coupon/public|Mozilla Firefox|windows|||
+06-10-2017 | 16:09:08 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-10-2017 | 16:09:15 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-10-2017 | 16:10:04 |   192.168.4.23|user|Home|http://localhost/coupon/public|Mozilla Firefox|windows|||
+06-10-2017 | 16:10:05 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-10-2017 | 16:10:07 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-10-2017 | 16:10:17 |   192.168.4.23|user|Home|http://localhost/coupon/public|Mozilla Firefox|windows|||
+06-10-2017 | 16:10:18 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-10-2017 | 16:10:20 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-10-2017 | 16:11:45 |   192.168.4.23|user|Home|http://localhost/coupon/public|Mozilla Firefox|windows|||
+06-10-2017 | 16:11:47 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-10-2017 | 16:15:27 |   192.168.4.23|user|Home|http://localhost/coupon/public|Mozilla Firefox|windows|||
+06-10-2017 | 16:15:29 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-10-2017 | 16:17:55 |   192.168.4.23|user|Home|http://localhost/coupon/public|Mozilla Firefox|windows|||
+06-10-2017 | 16:17:57 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-10-2017 | 16:17:59 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-10-2017 | 16:18:27 |   192.168.4.23|user|Home|http://localhost/coupon/public|Mozilla Firefox|windows|||
+06-10-2017 | 16:18:28 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-10-2017 | 16:18:48 |   192.168.4.23|user|Home|http://localhost/coupon/public|Mozilla Firefox|windows|||
+06-10-2017 | 16:18:53 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-10-2017 | 16:19:14 |   192.168.4.23|user|Home|http://localhost/coupon/public|Mozilla Firefox|windows|||
+06-10-2017 | 16:19:17 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-10-2017 | 16:20:35 |   192.168.4.23|user|Home|http://localhost/coupon/public|Mozilla Firefox|windows|||
+06-10-2017 | 16:20:40 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-10-2017 | 16:21:38 |   192.168.4.23|user|Home|http://localhost/coupon/public|Mozilla Firefox|windows|||
+06-10-2017 | 16:21:41 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-10-2017 | 16:23:01 |   192.168.4.23|user|Home|http://localhost/coupon/public|Mozilla Firefox|windows|||
+06-10-2017 | 16:23:02 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-10-2017 | 16:23:04 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-10-2017 | 16:28:15 |   192.168.4.23|user|Home|http://localhost/coupon/public|Mozilla Firefox|windows|||
+06-10-2017 | 16:28:17 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-10-2017 | 16:37:05 |   192.168.4.23|user|Home|http://localhost/coupon/public|Mozilla Firefox|windows|||
+06-10-2017 | 16:37:06 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-10-2017 | 16:38:01 |   192.168.4.23|user|Home|http://localhost/coupon/public|Mozilla Firefox|windows|||
+06-10-2017 | 16:38:02 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-10-2017 | 16:38:19 |   192.168.4.23|user|Home|http://localhost/coupon/public|Mozilla Firefox|windows|||
+06-10-2017 | 16:38:20 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-10-2017 | 16:38:38 |   192.168.4.23|user|Home|http://localhost/coupon/public|Mozilla Firefox|windows|||
+06-10-2017 | 16:38:40 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-10-2017 | 20:31:13 |   192.168.4.23|user|Home|http://localhost/coupon/public|Mozilla Firefox|windows|||
+06-10-2017 | 20:31:14 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-10-2017 | 20:31:40 |   192.168.4.23|user|Home|http://localhost/coupon/public|Mozilla Firefox|windows|||
+06-10-2017 | 20:31:40 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-10-2017 | 20:31:54 |   192.168.4.23|user|Home|http://localhost/coupon/public|Mozilla Firefox|windows|||
+06-10-2017 | 20:31:54 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-10-2017 | 20:32:39 |   192.168.4.23|user|Home|http://localhost/coupon/public|Mozilla Firefox|windows|||
+06-10-2017 | 20:32:40 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-10-2017 | 20:33:09 |   192.168.4.23|user|Home|http://localhost/coupon/public|Mozilla Firefox|windows|||
+06-10-2017 | 20:33:09 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-10-2017 | 20:33:29 |   192.168.4.23|user|Home|http://localhost/coupon/public|Mozilla Firefox|windows|||
+06-10-2017 | 20:33:30 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-10-2017 | 20:43:49 |   192.168.0.106|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-10-2017 | 20:43:51 |   192.168.0.106|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-10-2017 | 20:58:26 |   192.168.0.106|user|LogIn|http://localhost/coupon/public/login|Google Chrome|windows|||
+06-10-2017 | 20:58:31 |   192.168.0.106|user|Login Page|http://localhost/coupon/public/login|Google Chrome|windows|||
+06-10-2017 | 20:58:32 |   192.168.0.106|user|Error 404|http://localhost/coupon/public/error/request|Google Chrome|windows|||
+06-10-2017 | 20:58:41 |   192.168.0.106|user|AdminLogIn|http://localhost/coupon/public/adminlogin|Google Chrome|windows|||
+06-10-2017 | 20:58:43 |   192.168.0.106|user|Error 404|http://localhost/coupon/public/error/request|Google Chrome|windows|||
+06-10-2017 | 20:58:44 |   192.168.0.106|user|Error 404|http://localhost/coupon/public/error/request|Google Chrome|windows|||
+06-10-2017 | 20:58:49 |   192.168.0.106|user|LogIn|http://localhost/coupon/public/login|Google Chrome|windows|||
+06-10-2017 | 20:58:52 |   192.168.0.106|user|Dashboard|http://localhost/coupon/public/dashboard/admin|Google Chrome|windows|||
+06-10-2017 | 20:58:53 |   192.168.0.106|user|Error 404|http://localhost/coupon/public/error/request|Google Chrome|windows|||
+06-10-2017 | 20:58:59 |   192.168.0.106|user|Active Deal List|http://localhost/coupon/public/dashboard/active-deal|Google Chrome|windows|||
+06-10-2017 | 20:59:00 |   192.168.0.106|user|Error 404|http://localhost/coupon/public/error/request|Google Chrome|windows|||
+06-10-2017 | 20:59:13 |   192.168.0.106|user|Active Deal Delete|http://localhost/coupon/public/dashboard/active-deal/ctid-22|Google Chrome|windows|||
+06-10-2017 | 20:59:14 |   192.168.0.106|user|Active Deal List|http://localhost/coupon/public/dashboard/active-deal|Google Chrome|windows|||
+06-10-2017 | 21:00:48 |   192.168.0.106|user|Active Deal List|http://localhost/coupon/public/dashboard/active-deal|Google Chrome|windows|||
+06-10-2017 | 21:00:49 |   192.168.0.106|user|Error 404|http://localhost/coupon/public/error/request|Google Chrome|windows|||
+06-10-2017 | 21:00:57 |   192.168.0.106|user|Active Deal List|http://localhost/coupon/public/dashboard/active-deal?coupon_name=&merchant_name=&search_from=2016-09-25&search_to=2017-06-10&user_name=0|Google Chrome|windows|||
+06-10-2017 | 21:00:59 |   192.168.0.106|user|Error 404|http://localhost/coupon/public/error/request|Google Chrome|windows|||
+06-10-2017 | 21:01:05 |   192.168.0.106|user|Active Deal List|http://localhost/coupon/public/dashboard/active-deal?coupon_name=&merchant_name=&search_from=2016-09-25&search_to=2017-06-10&user_name=0|Google Chrome|windows|||
+06-10-2017 | 21:01:07 |   192.168.0.106|user|Error 404|http://localhost/coupon/public/error/request|Google Chrome|windows|||
+06-10-2017 | 21:01:10 |   192.168.0.106|user|Active Deal List|http://localhost/coupon/public/dashboard/active-deal?coupon_name=&merchant_name=&search_from=2016-09-25&search_to=2017-06-10&user_name=0|Google Chrome|windows|||
+06-10-2017 | 21:01:11 |   192.168.0.106|user|Error 404|http://localhost/coupon/public/error/request|Google Chrome|windows|||
+06-10-2017 | 21:04:53 |   192.168.0.106|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-10-2017 | 21:04:54 |   192.168.0.106|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-10-2017 | 21:13:58 |   192.168.0.106|user|Home|http://localhost/coupon/public|Mozilla Firefox|windows|||
+06-10-2017 | 21:14:00 |   192.168.0.106|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||

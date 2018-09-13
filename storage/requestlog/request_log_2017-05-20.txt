@@ -1,0 +1,2 @@
+05-20-2017 | 12:11:54 |   192.168.4.23|guest|GetToken|http://localhost/coupon/public/coupon/api/v1/getAccessToken|Unknown|Unknown|||
+05-20-2017 | 12:13:05 |   192.168.4.23|guest|Get All Coupon|http://localhost/coupon/public/coupon/api/v1/getAllcoupon|Unknown|Unknown|||

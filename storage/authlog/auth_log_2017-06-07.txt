@@ -1,0 +1,5 @@
+06-07-2017 | 12:11:00 |   192.168.4.23|32|Log In|Mozilla Firefox|windows|||
+06-07-2017 | 14:51:42 |   192.168.4.23|32|Log In|Mozilla Firefox|windows|||
+06-07-2017 | 14:51:59 |   192.168.4.23|32|Log In|Mozilla Firefox|windows|||
+06-07-2017 | 14:52:06 |   192.168.4.23|32|Log Out|Mozilla Firefox|windows|||
+06-07-2017 | 16:46:17 |   192.168.4.23|5|Log In|Mozilla Firefox|windows|||

@@ -1,0 +1,5 @@
+08-09-2018 | 11:00:17 |   127.0.0.1|user|Home|http://localhost/coupon/public|Mozilla Firefox|linux|||
+08-09-2018 | 11:01:02 |   127.0.0.1|user|Home|http://localhost/coupon/public|Mozilla Firefox|linux|||
+08-09-2018 | 11:01:03 |   127.0.0.1|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|linux|||
+08-09-2018 | 11:01:48 |   127.0.0.1|user|Home|http://localhost/coupon/public|Apple Safari|Phone|||
+08-09-2018 | 11:01:49 |   127.0.0.1|user|Error 404|http://localhost/coupon/public/error/request|Apple Safari|Phone|||

@@ -1,0 +1,64 @@
+05-14-2017 | 11:07:40 |   192.168.4.23|user|Review Rating|http://localhost/coupon/public/coupon/api/v1/reviewRating|Unknown|Unknown|||
+05-14-2017 | 11:10:12 |   192.168.4.23|user|Review Rating|http://localhost/coupon/public/coupon/api/v1/reviewRating|Unknown|Unknown|||
+05-14-2017 | 11:10:52 |   192.168.4.23|user|Review Rating|http://localhost/coupon/public/coupon/api/v1/reviewRating|Unknown|Unknown|||
+05-14-2017 | 11:13:01 |   192.168.4.23|user|Review Rating|http://localhost/coupon/public/coupon/api/v1/reviewRating|Unknown|Unknown|||
+05-14-2017 | 11:31:23 |   192.168.4.23|user|Review Rating|http://localhost/coupon/public/coupon/api/v1/reviewRating|Unknown|Unknown|||
+05-14-2017 | 11:45:19 |   192.168.4.23|user|Review Rating|http://localhost/coupon/public/coupon/api/v1/reviewRating|Unknown|Unknown|||
+05-14-2017 | 11:45:59 |   192.168.4.23|user|Review Rating|http://localhost/coupon/public/coupon/api/v1/reviewRating|Unknown|Unknown|||
+05-14-2017 | 11:46:21 |   192.168.4.23|user|Review Rating|http://localhost/coupon/public/coupon/api/v1/reviewRating|Unknown|Unknown|||
+05-14-2017 | 11:46:59 |   192.168.4.23|user|Review Rating|http://localhost/coupon/public/coupon/api/v1/reviewRating|Unknown|Unknown|||
+05-14-2017 | 11:47:02 |   192.168.4.23|user|Review Rating|http://localhost/coupon/public/coupon/api/v1/reviewRating|Unknown|Unknown|||
+05-14-2017 | 11:47:31 |   192.168.4.23|user|Review Rating|http://localhost/coupon/public/coupon/api/v1/reviewRating|Unknown|Unknown|||
+05-14-2017 | 11:48:10 |   192.168.4.23|user|Review Rating|http://localhost/coupon/public/coupon/api/v1/reviewRating|Unknown|Unknown|||
+05-14-2017 | 11:48:37 |   192.168.4.23|user|Review Rating|http://localhost/coupon/public/coupon/api/v1/reviewRating|Unknown|Unknown|||
+05-14-2017 | 11:48:51 |   192.168.4.23|user|Review Rating|http://localhost/coupon/public/coupon/api/v1/reviewRating|Unknown|Unknown|||
+05-14-2017 | 11:49:09 |   192.168.4.23|user|Review Rating|http://localhost/coupon/public/coupon/api/v1/reviewRating|Unknown|Unknown|||
+05-14-2017 | 11:49:40 |   192.168.4.23|user|Review Rating|http://localhost/coupon/public/coupon/api/v1/reviewRating|Unknown|Unknown|||
+05-14-2017 | 11:50:34 |   192.168.4.23|user|Review Rating|http://localhost/coupon/public/coupon/api/v1/reviewRating|Unknown|Unknown|||
+05-14-2017 | 11:51:06 |   192.168.4.23|user|Review Rating|http://localhost/coupon/public/coupon/api/v1/reviewRating|Unknown|Unknown|||
+05-14-2017 | 11:51:49 |   192.168.4.23|user|Review Rating|http://localhost/coupon/public/coupon/api/v1/reviewRating|Unknown|Unknown|||
+05-14-2017 | 12:12:41 |   192.168.4.23|guest|Review Rating|http://localhost/coupon/public/coupon/api/v1/reviewRating|Unknown|Unknown|||
+05-14-2017 | 12:17:44 |   192.168.4.23|guest|Review Rating|http://localhost/coupon/public/coupon/api/v1/reviewRating|Unknown|Unknown|||
+05-14-2017 | 13:00:49 |   192.168.4.23|guest|Review Rating|http://localhost/coupon/public/coupon/api/v1/reviewRating|Unknown|Unknown|||
+05-14-2017 | 13:01:11 |   192.168.4.23|guest|Review Rating|http://localhost/coupon/public/coupon/api/v1/reviewRating|Unknown|Unknown|||
+05-14-2017 | 13:02:43 |   192.168.4.23|guest|Review Rating|http://localhost/coupon/public/coupon/api/v1/reviewRating|Unknown|Unknown|||
+05-14-2017 | 13:02:46 |   192.168.4.23|guest|Review Rating|http://localhost/coupon/public/coupon/api/v1/reviewRating|Unknown|Unknown|||
+05-14-2017 | 13:04:13 |   192.168.4.23|guest|Review Rating|http://localhost/coupon/public/coupon/api/v1/reviewRating|Unknown|Unknown|||
+05-14-2017 | 13:06:14 |   192.168.4.23|guest|Review Rating|http://localhost/coupon/public/coupon/api/v1/reviewRating|Unknown|Unknown|||
+05-14-2017 | 13:06:17 |   192.168.4.23|guest|Review Rating|http://localhost/coupon/public/coupon/api/v1/reviewRating|Unknown|Unknown|||
+05-14-2017 | 13:07:18 |   192.168.4.23|guest|Review Rating|http://localhost/coupon/public/coupon/api/v1/reviewRating|Unknown|Unknown|||
+05-14-2017 | 13:07:21 |   192.168.4.23|guest|Review Rating|http://localhost/coupon/public/coupon/api/v1/reviewRating|Unknown|Unknown|||
+05-14-2017 | 13:08:01 |   192.168.4.23|guest|Review Rating|http://localhost/coupon/public/coupon/api/v1/reviewRating|Unknown|Unknown|||
+05-14-2017 | 13:09:46 |   192.168.4.23|guest|Review Rating|http://localhost/coupon/public/coupon/api/v1/reviewRating|Unknown|Unknown|||
+05-14-2017 | 13:12:03 |   192.168.4.23|guest|GetToken|http://localhost/coupon/public/coupon/api/v1/getAccessToken|Unknown|Unknown|||
+05-14-2017 | 13:13:49 |   192.168.4.23|guest|GetToken|http://localhost/coupon/public/coupon/api/v1/getAccessToken|Unknown|Unknown|||
+05-14-2017 | 13:14:52 |   192.168.4.23|guest|GetToken|http://localhost/coupon/public/coupon/api/v1/getAccessToken|Unknown|Unknown|||
+05-14-2017 | 13:15:48 |   192.168.4.23|guest|GetToken|http://localhost/coupon/public/coupon/api/v1/getAccessToken|Unknown|Unknown|||
+05-14-2017 | 13:17:15 |   192.168.4.23|guest|GetToken|http://localhost/coupon/public/coupon/api/v1/getAccessToken|Unknown|Unknown|||
+05-14-2017 | 13:17:50 |   192.168.4.23|guest|GetToken|http://localhost/coupon/public/coupon/api/v1/getAccessToken|Unknown|Unknown|||
+05-14-2017 | 13:19:08 |   192.168.4.23|guest|GetToken|http://localhost/coupon/public/coupon/api/v1/getAccessToken|Unknown|Unknown|||
+05-14-2017 | 13:19:22 |   192.168.4.23|guest|GetToken|http://localhost/coupon/public/coupon/api/v1/getAccessToken|Unknown|Unknown|||
+05-14-2017 | 13:20:39 |   192.168.4.23|guest|GetToken|http://localhost/coupon/public/coupon/api/v1/getAccessToken|Unknown|Unknown|||
+05-14-2017 | 13:55:56 |   192.168.4.23|guest|GetToken|http://localhost/coupon/public/coupon/api/v1/getAccessToken|Unknown|Unknown|||
+05-14-2017 | 13:56:45 |   192.168.4.23|guest|GetToken|http://localhost/coupon/public/coupon/api/v1/getAccessToken|Unknown|Unknown|||
+05-14-2017 | 13:57:28 |   192.168.4.23|guest|GetToken|http://localhost/coupon/public/coupon/api/v1/getAccessToken|Unknown|Unknown|||
+05-14-2017 | 13:57:48 |   192.168.4.23|guest|GetToken|http://localhost/coupon/public/coupon/api/v1/getAccessToken|Unknown|Unknown|||
+05-14-2017 | 13:58:20 |   192.168.4.23|guest|GetToken|http://localhost/coupon/public/coupon/api/v1/getAccessToken|Unknown|Unknown|||
+05-14-2017 | 13:58:33 |   192.168.4.23|guest|GetToken|http://localhost/coupon/public/coupon/api/v1/getAccessToken|Unknown|Unknown|||
+05-14-2017 | 13:58:37 |   192.168.4.23|guest|GetToken|http://localhost/coupon/public/coupon/api/v1/getAccessToken|Unknown|Unknown|||
+05-14-2017 | 13:59:10 |   192.168.4.23|guest|GetToken|http://localhost/coupon/public/coupon/api/v1/getAccessToken|Unknown|Unknown|||
+05-14-2017 | 13:59:13 |   192.168.4.23|guest|GetToken|http://localhost/coupon/public/coupon/api/v1/getAccessToken|Unknown|Unknown|||
+05-14-2017 | 13:59:42 |   192.168.4.23|guest|GetToken|http://localhost/coupon/public/coupon/api/v1/getAccessToken|Unknown|Unknown|||
+05-14-2017 | 14:06:01 |   192.168.4.23|guest|Review Rating|http://localhost/coupon/public/coupon/api/v1/reviewRating|Unknown|Unknown|||
+05-14-2017 | 14:06:28 |   192.168.4.23|guest|Review Rating|http://localhost/coupon/public/coupon/api/v1/reviewRating|Unknown|Unknown|||
+05-14-2017 | 14:06:33 |   192.168.4.23|guest|Review Rating|http://localhost/coupon/public/coupon/api/v1/reviewRating|Unknown|Unknown|||
+05-14-2017 | 14:07:42 |   192.168.4.23|guest|Active Deal|http://localhost/coupon/public/coupon/api/v1/activeDeal|Unknown|Unknown|||
+05-14-2017 | 14:07:53 |   192.168.4.23|guest|Active Deal|http://localhost/coupon/public/coupon/api/v1/activeDeal|Unknown|Unknown|||
+05-14-2017 | 15:18:50 |   192.168.4.23|guest|GetToken|http://localhost/coupon/public/coupon/api/v1/getAccessToken|Unknown|Unknown|||
+05-14-2017 | 15:20:10 |   192.168.4.23|guest|GetToken|http://localhost/coupon/public/coupon/api/v1/getAccessToken|Unknown|Unknown|||
+05-14-2017 | 15:20:36 |   192.168.4.23|guest|GetToken|http://localhost/coupon/public/coupon/api/v1/getAccessToken|Unknown|Unknown|||
+05-14-2017 | 15:21:49 |   192.168.4.23|guest|GetToken|http://localhost/coupon/public/coupon/api/v1/getAccessToken|Unknown|Unknown|||
+05-14-2017 | 15:22:20 |   192.168.4.23|guest|GetToken|http://localhost/coupon/public/coupon/api/v1/getAccessToken|Unknown|Unknown|||
+05-14-2017 | 15:22:59 |   192.168.4.23|guest|GetToken|http://localhost/coupon/public/coupon/api/v1/getAccessToken|Unknown|Unknown|||
+05-14-2017 | 15:25:09 |   192.168.4.23|guest|GetToken|http://localhost/coupon/public/coupon/api/v1/getAccessToken|Unknown|Unknown|||
+05-14-2017 | 15:26:21 |   192.168.4.23|guest|GetToken|http://localhost/coupon/public/coupon/api/v1/getAccessToken|Unknown|Unknown|||

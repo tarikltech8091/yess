@@ -1,0 +1,1 @@
+04-17-2017 | 12:07:42 |   192.168.4.23|3|http://localhost/coupon/public/dashboard/merchant/change-status/id-5/-1|update,tbl_merchant|{"merchant_status":"-1","updated_by":3,"updated_at":"2017-04-17 12:07:42"}

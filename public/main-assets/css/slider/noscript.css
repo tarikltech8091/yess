@@ -1,0 +1,9 @@
+.coupon_home_slider .ei-sliders{
+	height: auto;
+}
+.coupon_home_slider .ei-slider-thumbs{
+	display: none;
+}
+.coupon_home_slider .ei-slider-large li{
+	position: relative;
+}

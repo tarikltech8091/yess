@@ -1,0 +1,46 @@
+04-17-2017 | 10:21:08 |   192.168.4.23|user|LogIn|http://localhost/coupon/public//login|Mozilla Firefox|windows|||
+04-17-2017 | 10:21:24 |   192.168.4.23|user|LogIn|http://localhost/coupon/public/login|Mozilla Firefox|windows|||
+04-17-2017 | 10:43:38 |   192.168.4.23|user|User|http://localhost/coupon/public/dashboard/user-management|Mozilla Firefox|windows|||
+04-17-2017 | 10:43:41 |   192.168.4.23|user|Category|http://localhost/coupon/public/dashboard/category|Mozilla Firefox|windows|||
+04-17-2017 | 10:43:45 |   192.168.4.23|user|Sub Category|http://localhost/coupon/public/dashboard/sub-category|Mozilla Firefox|windows|||
+04-17-2017 | 12:06:12 |   192.168.4.23|user|User|http://localhost/coupon/public/dashboard/user-management?tab=create_user|Mozilla Firefox|windows|||
+04-17-2017 | 12:06:24 |   192.168.4.23|user|Category|http://localhost/coupon/public/dashboard/category|Mozilla Firefox|windows|||
+04-17-2017 | 12:06:28 |   192.168.4.23|user|Merchant|http://localhost/coupon/public/dashboard/merchant-page|Mozilla Firefox|windows|||
+04-17-2017 | 12:06:46 |   192.168.4.23|user|Merchant Branch|http://localhost/coupon/public/dashboard/merchant-branch|Mozilla Firefox|windows|||
+04-17-2017 | 12:06:55 |   192.168.4.23|user|All Coupon List|http://localhost/coupon/public/dashboard/all-coupon/list|Mozilla Firefox|windows|||
+04-17-2017 | 12:07:27 |   192.168.4.23|user|All Merchant List|http://localhost/coupon/public/dashboard/all-merchant/list|Mozilla Firefox|windows|||
+04-17-2017 | 12:07:35 |   192.168.4.23|user|Merchant Details|http://localhost/coupon/public/dashboard/merchant-details/id-5|Mozilla Firefox|windows|||
+04-17-2017 | 12:07:42 |   192.168.4.23|user|Merchant Status Changed|http://localhost/coupon/public/dashboard/merchant/change-status/id-5/-1|Mozilla Firefox|windows|||
+04-17-2017 | 12:07:43 |   192.168.4.23|user|All Merchant List|http://localhost/coupon/public/dashboard/all-merchant/list|Mozilla Firefox|windows|||
+04-17-2017 | 12:07:44 |   192.168.4.23|user|All Merchant List|http://localhost/coupon/public/dashboard/all-merchant/list|Mozilla Firefox|windows|||
+04-17-2017 | 12:07:57 |   192.168.4.23|user|All Coupon Transaction List|http://localhost/coupon/public/dashboard/all-coupon/transaction/list|Mozilla Firefox|windows|||
+04-17-2017 | 12:08:11 |   192.168.4.23|user|All Coupon Transaction List|http://localhost/coupon/public/dashboard/all-coupon/transaction/list|Mozilla Firefox|windows|||
+04-17-2017 | 12:08:36 |   192.168.4.23|user|All Coupon Confirm Transaction List|http://localhost/coupon/public/dashboard/all-coupon/confirm/transaction/list|Mozilla Firefox|windows|||
+04-17-2017 | 12:08:41 |   192.168.4.23|user| Sell Quantity|http://localhost/coupon/public/dashboard/sell-quantity|Mozilla Firefox|windows|||
+04-17-2017 | 12:08:58 |   192.168.4.23|user|Logout|http://localhost/coupon/public/logout|Mozilla Firefox|windows|||
+04-17-2017 | 12:08:59 |   192.168.4.23|user|LogIn|http://localhost/coupon/public/login|Mozilla Firefox|windows|||
+04-17-2017 | 12:09:05 |   192.168.4.23|user|LogIn|http://localhost/coupon/public/login|Mozilla Firefox|windows|||
+04-17-2017 | 12:09:06 |   192.168.4.23|user|Dashboard Merchant|http://localhost/coupon/public/dashboard/merchant|Mozilla Firefox|windows|||
+04-17-2017 | 12:09:13 |   192.168.4.23|user|Merchant All Transaction List|http://localhost/coupon/public/dashboard/merchnat-buy/coupon/list|Mozilla Firefox|windows|||
+04-17-2017 | 12:09:41 |   192.168.4.23|user|Merchant All Summery|http://localhost/coupon/public/dashboard/merchnat/all-summery|Mozilla Firefox|windows|||
+04-17-2017 | 12:10:10 |   192.168.4.23|user|Merchant All Summery|http://localhost/coupon/public/dashboard/merchnat/all-summery?branch_name=0&search_from=2016-12-25&search_to=2017-04-17|Mozilla Firefox|windows|||
+04-17-2017 | 12:10:49 |   192.168.4.23|user|Merchant Accept Transaction List|http://localhost/coupon/public/dashboard/merchnat-coupon/transaction/list|Mozilla Firefox|windows|||
+04-17-2017 | 12:10:55 |   192.168.4.23|user|Merchant Accept Transaction List|http://localhost/coupon/public/dashboard/merchnat-coupon/transaction/list?branch_name=0&coupon_name=0&search_from=2016-11-27&search_to=2017-04-17|Mozilla Firefox|windows|||
+04-17-2017 | 12:11:22 |   192.168.4.23|user|Merchant All Summery|http://localhost/coupon/public/dashboard/merchnat/all-summery|Mozilla Firefox|windows|||
+04-17-2017 | 12:11:25 |   192.168.4.23|user|Logout|http://localhost/coupon/public/logout|Mozilla Firefox|windows|||
+04-17-2017 | 12:11:26 |   192.168.4.23|user|LogIn|http://localhost/coupon/public/login|Mozilla Firefox|windows|||
+04-17-2017 | 12:11:31 |   192.168.4.23|user|LogIn|http://localhost/coupon/public/login|Mozilla Firefox|windows|||
+04-17-2017 | 12:11:40 |   192.168.4.23|user|All Merchant List|http://localhost/coupon/public/dashboard/all-merchant/list|Mozilla Firefox|windows|||
+04-17-2017 | 12:11:49 |   192.168.4.23|user|Merchant Edit|http://localhost/coupon/public/dashboard/merchant/edit-/5|Mozilla Firefox|windows|||
+04-17-2017 | 12:11:50 |   192.168.4.23|user|Merchant Edit|http://localhost/coupon/public/dashboard/merchant/edit-/favicon.ico|Mozilla Firefox|windows|||
+04-17-2017 | 12:11:57 |   192.168.4.23|user|All Coupon Confirm Transaction List|http://localhost/coupon/public/dashboard/all-coupon/confirm/transaction/list|Mozilla Firefox|windows|||
+04-17-2017 | 12:12:14 |   192.168.4.23|user|Coupon|http://localhost/coupon/public/dashboard/coupon|Mozilla Firefox|windows|||
+04-17-2017 | 12:12:21 |   192.168.4.23|user|Event Logs|http://localhost/coupon/public/system-admin/event-logs|Mozilla Firefox|windows|||
+04-17-2017 | 12:12:30 |   192.168.4.23|user|Event Logs|http://localhost/coupon/public/system-admin/event-logs?form_search_date=2016-12-25&to_search_date=2017-04-17|Mozilla Firefox|windows|||
+04-17-2017 | 12:16:37 |   192.168.4.23|user|Logout|http://localhost/coupon/public/logout|Mozilla Firefox|windows|||
+04-17-2017 | 12:16:38 |   192.168.4.23|user|LogIn|http://localhost/coupon/public/login|Mozilla Firefox|windows|||
+04-17-2017 | 12:16:49 |   192.168.4.23|user|LogIn|http://localhost/coupon/public/login|Mozilla Firefox|windows|||
+04-17-2017 | 12:16:50 |   192.168.4.23|user|Dashboard Branch|http://localhost/coupon/public/dashboard/branch|Mozilla Firefox|windows|||
+04-17-2017 | 12:17:02 |   192.168.4.23|user|Branch Coupon Transaction List|http://localhost/coupon/public/dashboard/branch/coupon-transaction/list|Mozilla Firefox|windows|||
+04-17-2017 | 12:17:09 |   192.168.4.23|user|Branch Coupon Transaction List|http://localhost/coupon/public/dashboard/branch/coupon-transaction/list?search_from=2016-12-25&search_to=2017-04-17|Mozilla Firefox|windows|||
+04-17-2017 | 12:17:17 |   192.168.4.23|user|Branch Summery|http://localhost/coupon/public/dashboard/branch/summery|Mozilla Firefox|windows|||

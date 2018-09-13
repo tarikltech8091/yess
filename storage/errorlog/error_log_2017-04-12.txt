@@ -1,0 +1,2 @@
+04-12-2017 | 13:48:41 |   192.168.4.23|3|http://localhost/coupon/public/dashboard/sub-category/update-16|Message : Undefined variable: sub_category_data, File : G:\xampp\htdocs\coupon\app\Http\Controllers\AdminController.php, Line : 344
+04-12-2017 | 13:49:38 |   192.168.4.23|3|http://localhost/coupon/public/dashboard/sub-category/update-16|Message : Undefined variable: sub_category_data, File : G:\xampp\htdocs\coupon\app\Http\Controllers\AdminController.php, Line : 344

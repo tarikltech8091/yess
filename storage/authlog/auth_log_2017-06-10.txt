@@ -1,0 +1,5 @@
+06-10-2017 | 15:33:23 |   192.168.4.23|1|Log In|Mozilla Firefox|windows|||
+06-10-2017 | 15:34:21 |   192.168.4.23|1|Log In|Google Chrome|windows|||
+06-10-2017 | 15:34:52 |   192.168.4.23|1|Log In|Google Chrome|windows|||
+06-10-2017 | 15:35:05 |   192.168.4.23|1|Log Out|Google Chrome|windows|||
+06-10-2017 | 20:58:50 |   192.168.0.106|33|Log In|Google Chrome|windows|||

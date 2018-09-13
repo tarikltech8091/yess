@@ -1,0 +1,3 @@
+06-11-2017 | 11:17:51 |   192.168.4.23|user|http://localhost/coupon/public/coupon/api/v1/buy/coupon/confirm|Message : Undefined index: coupon_secret_code, File : G:\xampp\htdocs\coupon\app\Http\Controllers\ApiController.php, Line : 1366
+06-11-2017 | 15:18:46 |   192.168.4.23|user|http://localhost/coupon/public/coupon/api/v1/activeDeal|Message : Undefined property: stdClass::$coupon_discount_rate, File : G:\xampp\htdocs\coupon\app\Http\Controllers\ApiController.php, Line : 979
+06-11-2017 | 15:38:19 |   192.168.4.23|user|http://localhost/coupon/public/coupon/api/v1/buy/coupon|Message : Undefined property: stdClass::$customer_mobile, File : G:\xampp\htdocs\coupon\app\Http\Controllers\ApiController.php, Line : 1165

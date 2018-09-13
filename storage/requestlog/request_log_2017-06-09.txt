@@ -1,0 +1,1 @@
+06-09-2017 | 14:03:11 |   192.168.0.104|guest|Buy Coupon Confirm|http://localhost/coupon/public/coupon/api/v1/buy/coupon/confirm| {"accessinfo":{"imei_no":"23456","access_token":"2ac98d0b-9014-482e-83ef-874a2c9c4cf7","user_id":"34","referenceCode":"timestamp"},"activeDeal_info":{"coupon_id":"5","coupon_transaction_id":"19","coupon_secret_code":"93626"}} |Unknown|Unknown|||

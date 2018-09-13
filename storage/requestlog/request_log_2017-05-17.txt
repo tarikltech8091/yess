@@ -1,0 +1,8 @@
+05-17-2017 | 10:30:02 |   192.168.4.23|guest|GetToken|http://localhost/coupon/public/coupon/api/v1/getAccessToken|Unknown|Unknown|||
+05-17-2017 | 10:30:29 |   192.168.4.23|guest|GetToken|http://localhost/coupon/public/coupon/api/v1/getAccessToken|Unknown|Unknown|||
+05-17-2017 | 10:30:43 |   192.168.4.23|guest|GetToken|http://localhost/coupon/public/coupon/api/v1/getAccessToken|Unknown|Unknown|||
+05-17-2017 | 10:31:15 |   192.168.4.23|guest|GetToken|http://localhost/coupon/public/coupon/api/v1/getAccessToken|Unknown|Unknown|||
+05-17-2017 | 10:31:36 |   192.168.4.23|guest|GetToken|http://localhost/coupon/public/coupon/api/v1/getAccessToken|Unknown|Unknown|||
+05-17-2017 | 10:32:07 |   192.168.4.23|guest|GetToken|http://localhost/coupon/public/coupon/api/v1/getAccessToken|Unknown|Unknown|||
+05-17-2017 | 10:32:38 |   192.168.4.23|guest|GetToken|http://localhost/coupon/public/coupon/api/v1/getAccessToken|Unknown|Unknown|||
+05-17-2017 | 10:32:53 |   192.168.4.23|guest|GetToken|http://localhost/coupon/public/coupon/api/v1/getAccessToken|Unknown|Unknown|||

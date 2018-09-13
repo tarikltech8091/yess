@@ -1,0 +1,35 @@
+09-11-2018 | 13:19:00 |   127.0.0.1|user|AdminLogIn|http://localhost:44/adminlogin|Google Chrome|linux|||
+09-11-2018 | 13:19:03 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-11-2018 | 13:19:05 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-11-2018 | 13:19:13 |   127.0.0.1|user|LogIn|http://localhost:44/login|Google Chrome|linux|||
+09-11-2018 | 13:19:15 |   127.0.0.1|user|Dashboard|http://localhost:44/dashboard/admin|Google Chrome|linux|||
+09-11-2018 | 13:19:17 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-11-2018 | 13:19:18 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-11-2018 | 13:19:26 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-11-2018 | 13:19:26 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-11-2018 | 13:19:27 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-11-2018 | 17:10:58 |   127.0.0.1|user|AdminLogIn|http://localhost:44/adminlogin|Google Chrome|linux|||
+09-11-2018 | 17:10:59 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-11-2018 | 17:11:00 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-11-2018 | 17:11:50 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-11-2018 | 17:11:51 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-11-2018 | 17:12:38 |   127.0.0.1|user|Home|http://localhost:44|Google Chrome|linux|||
+09-11-2018 | 17:12:39 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-11-2018 | 17:12:40 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-11-2018 | 17:12:41 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-11-2018 | 17:12:41 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-11-2018 | 17:12:42 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-11-2018 | 17:12:43 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-11-2018 | 17:12:43 |   127.0.0.1|user|AdminLogIn|http://localhost:44/adminlogin|Google Chrome|linux|||
+09-11-2018 | 17:12:44 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-11-2018 | 17:12:45 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-11-2018 | 17:12:45 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-11-2018 | 17:12:51 |   127.0.0.1|user|LogIn|http://localhost:44/login|Google Chrome|linux|||
+09-11-2018 | 17:12:53 |   127.0.0.1|user|Dashboard|http://localhost:44/dashboard/admin|Google Chrome|linux|||
+09-11-2018 | 17:12:54 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-11-2018 | 17:12:54 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-11-2018 | 17:17:13 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-11-2018 | 17:17:20 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-11-2018 | 17:17:22 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-11-2018 | 17:17:25 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-11-2018 | 17:17:26 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||

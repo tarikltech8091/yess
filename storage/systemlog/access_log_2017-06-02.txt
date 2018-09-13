@@ -1,0 +1,22 @@
+06-02-2017 | 21:28:43 |   192.168.0.107|user|Home|http://localhost/coupon/public|Mozilla Firefox|windows|||
+06-02-2017 | 21:28:52 |   192.168.0.107|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-02-2017 | 21:50:41 |   192.168.0.107|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-02-2017 | 21:51:22 |   192.168.0.107|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-02-2017 | 21:52:37 |   192.168.0.107|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-02-2017 | 21:55:37 |   192.168.0.107|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-02-2017 | 22:00:34 |   192.168.0.107|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-02-2017 | 22:01:34 |   192.168.0.107|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-02-2017 | 22:01:54 |   192.168.0.107|user|Error 404|http://localhost/coupon/public/error/request|Google Chrome|windows|||
+06-02-2017 | 22:02:02 |   192.168.0.107|user|Error 404|http://localhost/coupon/public/error/request|Google Chrome|windows|||
+06-02-2017 | 22:02:04 |   192.168.0.107|user|Error 404|http://localhost/coupon/public/error/request|Google Chrome|windows|||
+06-02-2017 | 22:02:10 |   192.168.0.107|user|Error 404|http://localhost/coupon/public/error/request|Google Chrome|windows|||
+06-02-2017 | 22:02:12 |   192.168.0.107|user|Error 404|http://localhost/coupon/public/error/request|Google Chrome|windows|||
+06-02-2017 | 22:04:28 |   192.168.0.107|user|Error 404|http://localhost/coupon/public/error/request|Google Chrome|windows|||
+06-02-2017 | 22:04:29 |   192.168.0.107|user|Error 404|http://localhost/coupon/public/error/request|Google Chrome|windows|||
+06-02-2017 | 22:06:34 |   192.168.0.107|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-02-2017 | 22:07:21 |   192.168.0.107|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-02-2017 | 22:08:03 |   192.168.0.107|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-02-2017 | 22:09:00 |   192.168.0.107|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-02-2017 | 22:09:19 |   192.168.0.107|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-02-2017 | 23:56:47 |   192.168.0.107|user|Home|http://localhost/coupon/public|Mozilla Firefox|windows|||
+06-02-2017 | 23:56:49 |   192.168.0.107|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||

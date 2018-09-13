@@ -1,0 +1,8 @@
+06-19-2017 | 12:24:40 |   192.168.4.23|user|Home|http://localhost/coupon/public|Mozilla Firefox|windows|||
+06-19-2017 | 12:24:47 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-19-2017 | 12:24:52 |   192.168.4.23|user|Merchant All Coupon|http://localhost/coupon/public/all-merchant/coupon/page/cid-/1/subcid-1|Mozilla Firefox|windows|||
+06-19-2017 | 12:24:55 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-19-2017 | 12:25:04 |   192.168.4.23|user|Merchant View|http://localhost/coupon/public/merchant-view/page|Mozilla Firefox|windows|||
+06-19-2017 | 12:25:09 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||
+06-19-2017 | 12:25:23 |   192.168.4.23|user|Merchant Branch View|http://localhost/coupon/public/merchant/branch-view/page/mid-1|Mozilla Firefox|windows|||
+06-19-2017 | 12:25:26 |   192.168.4.23|user|Error 404|http://localhost/coupon/public/error/request|Mozilla Firefox|windows|||

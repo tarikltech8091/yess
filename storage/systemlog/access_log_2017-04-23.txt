@@ -1,0 +1,111 @@
+04-23-2017 | 12:05:40 |   192.168.4.23|user|Sign In Page|http://localhost/coupon/public/sign-in/page|Mozilla Firefox|windows|||
+04-23-2017 | 12:05:50 |   192.168.4.23|user|LogIn|http://localhost/coupon/public/sign-in/page|Mozilla Firefox|windows|||
+04-23-2017 | 12:05:52 |   192.168.4.23|user|Sign In Page|http://localhost/coupon/public/sign-in/page|Mozilla Firefox|windows|||
+04-23-2017 | 12:08:05 |   192.168.4.23|user|LogIn|http://localhost/coupon/public/login|Google Chrome|windows|||
+04-23-2017 | 12:08:14 |   192.168.4.23|user|LogIn|http://localhost/coupon/public/login|Google Chrome|windows|||
+04-23-2017 | 12:08:25 |   192.168.4.23|user|Access Logs|http://localhost/coupon/public/system-admin/access-logs|Google Chrome|windows|||
+04-23-2017 | 12:12:03 |   192.168.4.23|user|Category|http://localhost/coupon/public/dashboard/category|Google Chrome|windows|||
+04-23-2017 | 12:13:05 |   192.168.4.23|user|Sub Category|http://localhost/coupon/public/dashboard/sub-category|Google Chrome|windows|||
+04-23-2017 | 12:13:07 |   192.168.4.23|user|Merchant|http://localhost/coupon/public/dashboard/merchant-page|Google Chrome|windows|||
+04-23-2017 | 12:13:10 |   192.168.4.23|user|Merchant Branch|http://localhost/coupon/public/dashboard/merchant-branch|Google Chrome|windows|||
+04-23-2017 | 12:13:13 |   192.168.4.23|user|Coupon|http://localhost/coupon/public/dashboard/coupon|Google Chrome|windows|||
+04-23-2017 | 12:13:15 |   192.168.4.23|user|All Coupon List|http://localhost/coupon/public/dashboard/all-coupon/list|Google Chrome|windows|||
+04-23-2017 | 12:14:42 |   192.168.4.23|user|All Coupon List|http://localhost/coupon/public/dashboard/all-coupon/list|Google Chrome|windows|||
+04-23-2017 | 12:14:48 |   192.168.4.23|user|Category|http://localhost/coupon/public/dashboard/category|Google Chrome|windows|||
+04-23-2017 | 12:14:51 |   192.168.4.23|user|Sub Category|http://localhost/coupon/public/dashboard/sub-category|Google Chrome|windows|||
+04-23-2017 | 12:15:53 |   192.168.4.23|user|Merchant|http://localhost/coupon/public/dashboard/merchant-page|Google Chrome|windows|||
+04-23-2017 | 12:20:16 |   192.168.4.23|user|Merchant|http://localhost/coupon/public/dashboard/merchant-page|Google Chrome|windows|||
+04-23-2017 | 12:20:33 |   192.168.4.23|user|Category|http://localhost/coupon/public/dashboard/category|Google Chrome|windows|||
+04-23-2017 | 12:20:36 |   192.168.4.23|user|Category Edit|http://localhost/coupon/public/dashboard/category/edit-/14|Google Chrome|windows|||
+04-23-2017 | 12:20:37 |   192.168.4.23|user|Category Edit|http://localhost/coupon/public/dashboard/category/edit-/favicon.ico|Google Chrome|windows|||
+04-23-2017 | 12:20:39 |   192.168.4.23|user|Sub Category|http://localhost/coupon/public/dashboard/sub-category|Google Chrome|windows|||
+04-23-2017 | 12:20:47 |   192.168.4.23|user|Sub Category Edit|http://localhost/coupon/public/dashboard/sub-category/edit-/3|Google Chrome|windows|||
+04-23-2017 | 12:20:49 |   192.168.4.23|user|Sub Category Edit|http://localhost/coupon/public/dashboard/sub-category/edit-/favicon.ico|Google Chrome|windows|||
+04-23-2017 | 12:20:51 |   192.168.4.23|user|Merchant|http://localhost/coupon/public/dashboard/merchant-page|Google Chrome|windows|||
+04-23-2017 | 12:21:00 |   192.168.4.23|user|Merchant Branch|http://localhost/coupon/public/dashboard/merchant-branch|Google Chrome|windows|||
+04-23-2017 | 12:21:09 |   192.168.4.23|user|Coupon|http://localhost/coupon/public/dashboard/coupon|Google Chrome|windows|||
+04-23-2017 | 12:21:13 |   192.168.4.23|user|Branch Edit|http://localhost/coupon/public/dashboard/branch/edit-/11|Google Chrome|windows|||
+04-23-2017 | 12:21:14 |   192.168.4.23|user|Branch Edit|http://localhost/coupon/public/dashboard/branch/edit-/favicon.ico|Google Chrome|windows|||
+04-23-2017 | 12:21:27 |   192.168.4.23|user|Coupon|http://localhost/coupon/public/dashboard/coupon|Google Chrome|windows|||
+04-23-2017 | 12:21:40 |   192.168.4.23|user|All Coupon List|http://localhost/coupon/public/dashboard/all-coupon/list|Google Chrome|windows|||
+04-23-2017 | 12:21:43 |   192.168.4.23|user|Coupon Edit|http://localhost/coupon/public/dashboard/coupon/edit-/1|Google Chrome|windows|||
+04-23-2017 | 12:21:44 |   192.168.4.23|user|Coupon Edit|http://localhost/coupon/public/dashboard/coupon/edit-/favicon.ico|Google Chrome|windows|||
+04-23-2017 | 12:21:52 |   192.168.4.23|user|All Coupon Transaction List|http://localhost/coupon/public/dashboard/all-coupon/transaction/list|Google Chrome|windows|||
+04-23-2017 | 12:21:57 |   192.168.4.23|user|All Coupon Transaction List|http://localhost/coupon/public/dashboard/all-coupon/transaction/list?coupon_name=0&search_from=2017-03-26&search_to=2017-04-23&user_name=0|Google Chrome|windows|||
+04-23-2017 | 12:22:02 |   192.168.4.23|user|All Coupon Confirm Transaction List|http://localhost/coupon/public/dashboard/all-coupon/confirm/transaction/list|Google Chrome|windows|||
+04-23-2017 | 12:22:09 |   192.168.4.23|user|All Coupon Confirm Transaction List|http://localhost/coupon/public/dashboard/all-coupon/confirm/transaction/list?coupon_name=0&search_from=2017-03-05&search_to=2017-04-23&user_name=0|Google Chrome|windows|||
+04-23-2017 | 12:22:13 |   192.168.4.23|user|All Coupon Confirm Transaction List|http://localhost/coupon/public/dashboard/all-coupon/confirm/transaction/list?coupon_name=0&page=3&search_from=2017-03-05&search_to=2017-04-23&user_name=0|Google Chrome|windows|||
+04-23-2017 | 12:22:39 |   192.168.4.23|user|Home Slider|http://localhost/coupon/public/dashboard/home-slider|Google Chrome|windows|||
+04-23-2017 | 12:23:12 |   192.168.4.23|user|Home Slider|http://localhost/coupon/public/dashboard/home-slider|Google Chrome|windows|||
+04-23-2017 | 12:23:18 |   192.168.4.23|user|Home Slider|http://localhost/coupon/public/dashboard/home-slider|Google Chrome|windows|||
+04-23-2017 | 12:23:23 |   192.168.4.23|user|Home Slider Delete|http://localhost/coupon/public/dashboard/home-slider/delete-/5|Google Chrome|windows|||
+04-23-2017 | 12:23:24 |   192.168.4.23|user|Home Slider|http://localhost/coupon/public/dashboard/home-slider|Google Chrome|windows|||
+04-23-2017 | 12:23:27 |   192.168.4.23|user|Home Slider Delete|http://localhost/coupon/public/dashboard/home-slider/delete-/7|Google Chrome|windows|||
+04-23-2017 | 12:23:28 |   192.168.4.23|user|Home Slider|http://localhost/coupon/public/dashboard/home-slider|Google Chrome|windows|||
+04-23-2017 | 12:23:34 |   192.168.4.23|user|Home Slider|http://localhost/coupon/public/dashboard/home-slider|Google Chrome|windows|||
+04-23-2017 | 12:23:35 |   192.168.4.23|user|Home Slider|http://localhost/coupon/public/dashboard/home-slider|Google Chrome|windows|||
+04-23-2017 | 12:23:49 |   192.168.4.23|user|Home Slider|http://localhost/coupon/public/dashboard/home-slider|Google Chrome|windows|||
+04-23-2017 | 12:23:50 |   192.168.4.23|user|Home Slider|http://localhost/coupon/public/dashboard/home-slider|Google Chrome|windows|||
+04-23-2017 | 12:24:49 |   192.168.4.23|user|Home Slider|http://localhost/coupon/public/dashboard/home-slider|Google Chrome|windows|||
+04-23-2017 | 12:24:50 |   192.168.4.23|user|Home Slider|http://localhost/coupon/public/dashboard/home-slider|Google Chrome|windows|||
+04-23-2017 | 12:25:10 |   192.168.4.23|user|Home Slider|http://localhost/coupon/public/dashboard/home-slider?page=2|Google Chrome|windows|||
+04-23-2017 | 12:25:27 |   192.168.4.23|user|Home Slider Change Status|http://localhost/coupon/public/dashboard/home-slider/change-status/id-4/-1|Google Chrome|windows|||
+04-23-2017 | 12:25:28 |   192.168.4.23|user|Home Slider|http://localhost/coupon/public/dashboard/home-slider|Google Chrome|windows|||
+04-23-2017 | 12:25:32 |   192.168.4.23|user|Home Slider|http://localhost/coupon/public/dashboard/home-slider|Google Chrome|windows|||
+04-23-2017 | 12:29:09 |   192.168.4.23|user|Home Slider|http://localhost/coupon/public/dashboard/home-slider|Google Chrome|windows|||
+04-23-2017 | 12:29:34 |   192.168.4.23|user|Home Slider|http://localhost/coupon/public/dashboard/home-slider|Google Chrome|windows|||
+04-23-2017 | 12:30:00 |   192.168.4.23|user|Home Slider|http://localhost/coupon/public/dashboard/home-slider|Google Chrome|windows|||
+04-23-2017 | 12:30:26 |   192.168.4.23|user|Home Slider|http://localhost/coupon/public/dashboard/home-slider|Google Chrome|windows|||
+04-23-2017 | 12:30:39 |   192.168.4.23|user|Logout|http://localhost/coupon/public/logout|Google Chrome|windows|||
+04-23-2017 | 12:30:43 |   192.168.4.23|user|LogIn|http://localhost/coupon/public/login|Google Chrome|windows|||
+04-23-2017 | 12:30:48 |   192.168.4.23|user|LogIn|http://localhost/coupon/public/login|Google Chrome|windows|||
+04-23-2017 | 12:30:49 |   192.168.4.23|user|Dashboard Merchant|http://localhost/coupon/public/dashboard/merchant|Google Chrome|windows|||
+04-23-2017 | 12:30:54 |   192.168.4.23|user|Merchant All Summery|http://localhost/coupon/public/dashboard/merchnat/all-summery|Google Chrome|windows|||
+04-23-2017 | 12:31:27 |   192.168.4.23|user|Merchant All Summery|http://localhost/coupon/public/dashboard/merchnat/all-summery|Google Chrome|windows|||
+04-23-2017 | 12:31:34 |   192.168.4.23|user|Merchant All Transaction List|http://localhost/coupon/public/dashboard/merchnat-buy/coupon/list|Google Chrome|windows|||
+04-23-2017 | 12:31:39 |   192.168.4.23|user|Merchant All Transaction List|http://localhost/coupon/public/dashboard/merchnat-buy/coupon/list?branch_name=0&coupon_name=0&search_from=2017-03-26&search_to=2017-04-23|Google Chrome|windows|||
+04-23-2017 | 12:32:04 |   192.168.4.23|user|Merchant Accept Transaction List|http://localhost/coupon/public/dashboard/merchnat-coupon/transaction/list|Google Chrome|windows|||
+04-23-2017 | 12:32:12 |   192.168.4.23|user|Logout|http://localhost/coupon/public/logout|Google Chrome|windows|||
+04-23-2017 | 12:32:13 |   192.168.4.23|user|LogIn|http://localhost/coupon/public/login|Google Chrome|windows|||
+04-23-2017 | 12:32:20 |   192.168.4.23|user|LogIn|http://localhost/coupon/public/login|Google Chrome|windows|||
+04-23-2017 | 12:32:21 |   192.168.4.23|user|Dashboard Branch|http://localhost/coupon/public/dashboard/branch|Google Chrome|windows|||
+04-23-2017 | 12:32:23 |   192.168.4.23|user|Branch Summery|http://localhost/coupon/public/dashboard/branch/summery|Google Chrome|windows|||
+04-23-2017 | 12:32:27 |   192.168.4.23|user|Branch Confirm Transaction List|http://localhost/coupon/public/dashboard/branch/confirm-transaction/list|Google Chrome|windows|||
+04-23-2017 | 12:32:37 |   192.168.4.23|user|Branch Confirm Transaction List|http://localhost/coupon/public/dashboard/branch/confirm-transaction/list?search_from=2016-12-25&search_to=2017-04-23|Google Chrome|windows|||
+04-23-2017 | 12:32:42 |   192.168.4.23|user|Branch Coupon Transaction List|http://localhost/coupon/public/dashboard/branch/coupon-transaction/list|Google Chrome|windows|||
+04-23-2017 | 12:32:47 |   192.168.4.23|user|Branch Coupon Transaction List|http://localhost/coupon/public/dashboard/branch/coupon-transaction/list?search_from=2016-12-25&search_to=2017-04-23|Google Chrome|windows|||
+04-23-2017 | 12:35:02 |   192.168.4.23|user|Dashboard Branch|http://localhost/coupon/public/dashboard/branch|Google Chrome|windows|||
+04-23-2017 | 12:35:05 |   192.168.4.23|user|Logout|http://localhost/coupon/public/logout|Google Chrome|windows|||
+04-23-2017 | 12:35:06 |   192.168.4.23|user|LogIn|http://localhost/coupon/public/login|Google Chrome|windows|||
+04-23-2017 | 12:35:11 |   192.168.4.23|user|LogIn|http://localhost/coupon/public/login|Google Chrome|windows|||
+04-23-2017 | 12:35:29 |   192.168.4.23|user| Sell Quantity|http://localhost/coupon/public/dashboard/sell-quantity|Google Chrome|windows|||
+04-23-2017 | 12:42:22 |   192.168.4.23|user|LogIn|http://localhost/coupon/public/login|Google Chrome|windows|||
+04-23-2017 | 12:42:30 |   192.168.4.23|user|Home Slider|http://localhost/coupon/public/dashboard/home-slider|Google Chrome|windows|||
+04-23-2017 | 12:42:34 |   192.168.4.23|user|Home Slider Change Status|http://localhost/coupon/public/dashboard/home-slider/change-status/id-11/-1|Google Chrome|windows|||
+04-23-2017 | 12:42:35 |   192.168.4.23|user|Home Slider|http://localhost/coupon/public/dashboard/home-slider|Google Chrome|windows|||
+04-23-2017 | 12:42:36 |   192.168.4.23|user|Home Slider|http://localhost/coupon/public/dashboard/home-slider|Google Chrome|windows|||
+04-23-2017 | 13:46:59 |   192.168.4.23|user|Sub Category|http://localhost/coupon/public/dashboard/sub-category|Google Chrome|windows|||
+04-23-2017 | 13:46:59 |   192.168.4.23|user|Sub Category|http://localhost/coupon/public/dashboard/sub-category|Google Chrome|windows|||
+04-23-2017 | 13:47:09 |   192.168.4.23|user|Sub Category|http://localhost/coupon/public/dashboard/sub-category?page=2|Google Chrome|windows|||
+04-23-2017 | 13:47:13 |   192.168.4.23|user|Sub Category Status Change|http://localhost/coupon/public/dashboard/sub-category/change-id-25/-1|Google Chrome|windows|||
+04-23-2017 | 13:47:13 |   192.168.4.23|user|All Merchant List|http://localhost/coupon/public/dashboard/all-merchant/list|Google Chrome|windows|||
+04-23-2017 | 13:47:14 |   192.168.4.23|user|Sub Category|http://localhost/coupon/public/dashboard/sub-category|Google Chrome|windows|||
+04-23-2017 | 13:47:20 |   192.168.4.23|user|Sub Category|http://localhost/coupon/public/dashboard/sub-category?page=2|Google Chrome|windows|||
+04-23-2017 | 13:47:27 |   192.168.4.23|user|Sub Category Status Change|http://localhost/coupon/public/dashboard/sub-category/change-id-26/-1|Google Chrome|windows|||
+04-23-2017 | 13:47:28 |   192.168.4.23|user|All Merchant List|http://localhost/coupon/public/dashboard/all-merchant/list|Google Chrome|windows|||
+04-23-2017 | 13:47:29 |   192.168.4.23|user|Sub Category|http://localhost/coupon/public/dashboard/sub-category|Google Chrome|windows|||
+04-23-2017 | 13:47:42 |   192.168.4.23|user|Sub Category|http://localhost/coupon/public/dashboard/sub-category?page=2|Google Chrome|windows|||
+04-23-2017 | 13:47:50 |   192.168.4.23|user|Sub Category Status Change|http://localhost/coupon/public/dashboard/sub-category/change-id-24/-1|Google Chrome|windows|||
+04-23-2017 | 13:47:51 |   192.168.4.23|user|All Merchant List|http://localhost/coupon/public/dashboard/all-merchant/list|Google Chrome|windows|||
+04-23-2017 | 13:47:52 |   192.168.4.23|user|Sub Category|http://localhost/coupon/public/dashboard/sub-category|Google Chrome|windows|||
+04-23-2017 | 13:48:18 |   192.168.4.23|user|Sub Category|http://localhost/coupon/public/dashboard/sub-category?page=2|Google Chrome|windows|||
+04-23-2017 | 13:48:19 |   192.168.4.23|user|Sub Category|http://localhost/coupon/public/dashboard/sub-category?page=2|Google Chrome|windows|||
+04-23-2017 | 13:48:22 |   192.168.4.23|user|Sub Category Status Change|http://localhost/coupon/public/dashboard/sub-category/change-id-22/-1|Google Chrome|windows|||
+04-23-2017 | 13:48:23 |   192.168.4.23|user|All Merchant List|http://localhost/coupon/public/dashboard/all-merchant/list|Google Chrome|windows|||
+04-23-2017 | 13:48:24 |   192.168.4.23|user|Sub Category|http://localhost/coupon/public/dashboard/sub-category|Google Chrome|windows|||
+04-23-2017 | 13:48:28 |   192.168.4.23|user|Sub Category|http://localhost/coupon/public/dashboard/sub-category?page=2|Google Chrome|windows|||
+04-23-2017 | 13:48:32 |   192.168.4.23|user|Sub Category Status Change|http://localhost/coupon/public/dashboard/sub-category/change-id-23/-1|Google Chrome|windows|||
+04-23-2017 | 13:48:36 |   192.168.4.23|user|All Merchant List|http://localhost/coupon/public/dashboard/all-merchant/list|Google Chrome|windows|||
+04-23-2017 | 13:48:36 |   192.168.4.23|user|Sub Category|http://localhost/coupon/public/dashboard/sub-category|Google Chrome|windows|||
+04-23-2017 | 13:48:37 |   192.168.4.23|user|Sub Category Status Change|http://localhost/coupon/public/dashboard/sub-category/change-id-23/-1|Google Chrome|windows|||
+04-23-2017 | 13:48:40 |   192.168.4.23|user|Sub Category|http://localhost/coupon/public/dashboard/sub-category|Google Chrome|windows|||

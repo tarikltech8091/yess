@@ -1,0 +1,41 @@
+/* CSS reset */
+.coupon_home_slider body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,fieldset,input,textarea,p,blockquote,th,td { 
+	margin:0;
+	padding:0;
+}
+.coupon_home_slider html,body {
+	margin:0;
+	padding:0;
+}
+.coupon_home_slider table {
+	border-collapse:collapse;
+	border-spacing:0;
+}
+.coupon_home_slider fieldset,img { 
+	border:0;
+}
+.coupon_home_slider input{
+	border:1px solid #b0b0b0;
+	padding:3px 5px 4px;
+	color:#979797;
+	width:190px;
+}
+.coupon_home_slider address,caption,cite,code,dfn,th,var {
+	font-style:normal;
+	font-weight:normal;
+}
+.coupon_home_slider ol,ul {
+	list-style:none;
+}
+.coupon_home_slider caption,th {
+	text-align:left;
+}
+.coupon_home_slider h1,h2,h3,h4,h5,h6 {
+	font-size:100%;
+	font-weight:normal;
+}
+.coupon_home_slider q:before,q:after {
+	content:'';
+}
+.coupon_home_slider abbr,acronym { border:0;
+}

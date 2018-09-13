@@ -1,0 +1,85 @@
+04-20-2017 | 10:39:30 |   192.168.4.23|user|Sign In Page|http://localhost/coupon/public/sign-in/page|Mozilla Firefox|windows|||
+04-20-2017 | 10:39:38 |   192.168.4.23|user|LogIn|http://localhost/coupon/public/sign-in/page|Mozilla Firefox|windows|||
+04-20-2017 | 10:39:39 |   192.168.4.23|user|Sign In Page|http://localhost/coupon/public/sign-in/page|Mozilla Firefox|windows|||
+04-20-2017 | 10:39:46 |   192.168.4.23|user|LogIn|http://localhost/coupon/public/sign-in/page|Mozilla Firefox|windows|||
+04-20-2017 | 10:39:47 |   192.168.4.23|user|Sign In Page|http://localhost/coupon/public/sign-in/page|Mozilla Firefox|windows|||
+04-20-2017 | 13:02:35 |   192.168.4.23|user|LogIn|http://localhost/coupon/public//login|Mozilla Firefox|windows|||
+04-20-2017 | 13:02:42 |   192.168.4.23|user|LogIn|http://localhost/coupon/public//login|Mozilla Firefox|windows|||
+04-20-2017 | 13:03:55 |   192.168.4.23|user|LogIn|http://localhost/coupon/public//login|Mozilla Firefox|windows|||
+04-20-2017 | 13:04:03 |   192.168.4.23|user|Client Logout|http://localhost/coupon/public/client/logout/01767679544|Mozilla Firefox|windows|||
+04-20-2017 | 13:04:17 |   192.168.4.23|user|LogIn|http://localhost/coupon/public//login|Mozilla Firefox|windows|||
+04-20-2017 | 13:04:24 |   192.168.4.23|user|LogIn|http://localhost/coupon/public/login|Mozilla Firefox|windows|||
+04-20-2017 | 13:04:25 |   192.168.4.23|user|Dashboard Merchant|http://localhost/coupon/public/dashboard/merchant|Mozilla Firefox|windows|||
+04-20-2017 | 13:04:33 |   192.168.4.23|user|Logout|http://localhost/coupon/public/logout|Mozilla Firefox|windows|||
+04-20-2017 | 13:04:34 |   192.168.4.23|user|LogIn|http://localhost/coupon/public/login|Mozilla Firefox|windows|||
+04-20-2017 | 13:04:38 |   192.168.4.23|user|LogIn|http://localhost/coupon/public/login|Mozilla Firefox|windows|||
+04-20-2017 | 13:05:26 |   192.168.4.23|user|Logout|http://localhost/coupon/public/logout|Mozilla Firefox|windows|||
+04-20-2017 | 13:05:27 |   192.168.4.23|user|LogIn|http://localhost/coupon/public/login|Mozilla Firefox|windows|||
+04-20-2017 | 13:05:33 |   192.168.4.23|user|Sign In Page|http://localhost/coupon/public/sign-in/page|Mozilla Firefox|windows|||
+04-20-2017 | 13:05:42 |   192.168.4.23|user|LogIn|http://localhost/coupon/public/sign-in/page|Mozilla Firefox|windows|||
+04-20-2017 | 13:05:43 |   192.168.4.23|user|Sign In Page|http://localhost/coupon/public/sign-in/page|Mozilla Firefox|windows|||
+04-20-2017 | 13:53:17 |   192.168.4.23|user|Sign In Page|http://localhost/coupon/public/sign-in/page|Mozilla Firefox|windows|||
+04-20-2017 | 15:01:39 |   192.168.4.23|user|Client Logout|http://localhost/coupon/public/client/logout/01767679544|Mozilla Firefox|windows|||
+04-20-2017 | 15:01:53 |   192.168.4.23|user|LogIn|http://localhost/coupon/public//login|Mozilla Firefox|windows|||
+04-20-2017 | 15:02:01 |   192.168.4.23|user|LogIn|http://localhost/coupon/public/login|Mozilla Firefox|windows|||
+04-20-2017 | 15:05:07 |   192.168.4.23|user|Coupon|http://localhost/coupon/public/dashboard/coupon|Mozilla Firefox|windows|||
+04-20-2017 | 15:07:06 |   192.168.4.23|user|Coupon|http://localhost/coupon/public/dashboard/coupon|Mozilla Firefox|windows|||
+04-20-2017 | 15:07:58 |   192.168.4.23|user|Coupon|http://localhost/coupon/public/dashboard/coupon|Mozilla Firefox|windows|||
+04-20-2017 | 15:09:39 |   192.168.4.23|user|Coupon|http://localhost/coupon/public/dashboard/coupon|Mozilla Firefox|windows|||
+04-20-2017 | 15:10:09 |   192.168.4.23|user|Coupon|http://localhost/coupon/public/dashboard/coupon|Mozilla Firefox|windows|||
+04-20-2017 | 15:10:23 |   192.168.4.23|user|Coupon|http://localhost/coupon/public/dashboard/coupon|Mozilla Firefox|windows|||
+04-20-2017 | 15:10:38 |   192.168.4.23|user|Coupon|http://localhost/coupon/public/dashboard/coupon|Mozilla Firefox|windows|||
+04-20-2017 | 15:10:49 |   192.168.4.23|user|Coupon|http://localhost/coupon/public/dashboard/coupon|Mozilla Firefox|windows|||
+04-20-2017 | 15:12:48 |   192.168.4.23|user|Coupon|http://localhost/coupon/public/dashboard/coupon|Mozilla Firefox|windows|||
+04-20-2017 | 15:12:55 |   192.168.4.23|user|All Coupon List|http://localhost/coupon/public/dashboard/all-coupon/list|Mozilla Firefox|windows|||
+04-20-2017 | 15:12:59 |   192.168.4.23|user|Coupon Edit|http://localhost/coupon/public/dashboard/coupon/edit-/14|Mozilla Firefox|windows|||
+04-20-2017 | 15:13:00 |   192.168.4.23|user|Coupon Edit|http://localhost/coupon/public/dashboard/coupon/edit-/favicon.ico|Mozilla Firefox|windows|||
+04-20-2017 | 15:13:28 |   192.168.4.23|user|Coupon Edit|http://localhost/coupon/public/dashboard/coupon/edit-/14|Mozilla Firefox|windows|||
+04-20-2017 | 15:15:17 |   192.168.4.23|user|All Coupon List|http://localhost/coupon/public/dashboard/all-coupon/list?page=3|Mozilla Firefox|windows|||
+04-20-2017 | 15:15:20 |   192.168.4.23|user|Coupon Edit|http://localhost/coupon/public/dashboard/coupon/edit-/1|Mozilla Firefox|windows|||
+04-20-2017 | 15:16:53 |   192.168.4.23|user|Coupon Update|http://localhost/coupon/public/dashboard/coupon/update-1|Mozilla Firefox|windows|||
+04-20-2017 | 15:16:54 |   192.168.4.23|user|All Coupon List|http://localhost/coupon/public/dashboard/all-coupon/list|Mozilla Firefox|windows|||
+04-20-2017 | 15:16:57 |   192.168.4.23|user|User Details|http://localhost/coupon/public/dashboard/user-details/id-1|Mozilla Firefox|windows|||
+04-20-2017 | 15:17:00 |   192.168.4.23|user|User Details|http://localhost/coupon/public/dashboard/user-details/id-1|Mozilla Firefox|windows|||
+04-20-2017 | 15:17:04 |   192.168.4.23|user|User Details|http://localhost/coupon/public/dashboard/user-details/id-1|Mozilla Firefox|windows|||
+04-20-2017 | 15:17:04 |   192.168.4.23|user|User Details|http://localhost/coupon/public/dashboard/user-details/id-1|Mozilla Firefox|windows|||
+04-20-2017 | 15:17:04 |   192.168.4.23|user|User Details|http://localhost/coupon/public/dashboard/user-details/id-1|Mozilla Firefox|windows|||
+04-20-2017 | 15:17:06 |   192.168.4.23|user|User Details|http://localhost/coupon/public/dashboard/user-details/id-1|Mozilla Firefox|windows|||
+04-20-2017 | 15:17:06 |   192.168.4.23|user|All Coupon List|http://localhost/coupon/public/dashboard/all-coupon/list|Mozilla Firefox|windows|||
+04-20-2017 | 15:17:07 |   192.168.4.23|user|User Details|http://localhost/coupon/public/dashboard/user-details/id-1|Mozilla Firefox|windows|||
+04-20-2017 | 15:17:11 |   192.168.4.23|user|User Details|http://localhost/coupon/public/dashboard/user-details/id-1|Mozilla Firefox|windows|||
+04-20-2017 | 15:17:11 |   192.168.4.23|user|User Details|http://localhost/coupon/public/dashboard/user-details/id-1|Mozilla Firefox|windows|||
+04-20-2017 | 15:17:12 |   192.168.4.23|user|User Details|http://localhost/coupon/public/dashboard/user-details/id-1|Mozilla Firefox|windows|||
+04-20-2017 | 15:17:12 |   192.168.4.23|user|User Details|http://localhost/coupon/public/dashboard/user-details/id-1|Mozilla Firefox|windows|||
+04-20-2017 | 15:17:13 |   192.168.4.23|user|User Details|http://localhost/coupon/public/dashboard/user-details/id-1|Mozilla Firefox|windows|||
+04-20-2017 | 15:17:14 |   192.168.4.23|user|User Details|http://localhost/coupon/public/dashboard/user-details/id-1|Mozilla Firefox|windows|||
+04-20-2017 | 15:17:14 |   192.168.4.23|user|User Details|http://localhost/coupon/public/dashboard/user-details/id-1|Mozilla Firefox|windows|||
+04-20-2017 | 15:17:14 |   192.168.4.23|user|User Details|http://localhost/coupon/public/dashboard/user-details/id-1|Mozilla Firefox|windows|||
+04-20-2017 | 15:17:15 |   192.168.4.23|user|User Details|http://localhost/coupon/public/dashboard/user-details/id-1|Mozilla Firefox|windows|||
+04-20-2017 | 15:17:17 |   192.168.4.23|user|User Details|http://localhost/coupon/public/dashboard/user-details/id-1|Mozilla Firefox|windows|||
+04-20-2017 | 15:17:24 |   192.168.4.23|user|User Details|http://localhost/coupon/public/dashboard/user-details/id-1|Mozilla Firefox|windows|||
+04-20-2017 | 15:17:32 |   192.168.4.23|user|All Coupon List|http://localhost/coupon/public/dashboard/all-coupon/list?page=3|Mozilla Firefox|windows|||
+04-20-2017 | 15:17:39 |   192.168.4.23|user|Coupon Edit|http://localhost/coupon/public/dashboard/coupon/edit-/9|Mozilla Firefox|windows|||
+04-20-2017 | 15:18:07 |   192.168.4.23|user|Coupon Update|http://localhost/coupon/public/dashboard/coupon/update-9|Mozilla Firefox|windows|||
+04-20-2017 | 15:18:11 |   192.168.4.23|user|All Coupon List|http://localhost/coupon/public/dashboard/all-coupon/list|Mozilla Firefox|windows|||
+04-20-2017 | 15:18:22 |   192.168.4.23|user|Logout|http://localhost/coupon/public/logout|Mozilla Firefox|windows|||
+04-20-2017 | 15:18:23 |   192.168.4.23|user|LogIn|http://localhost/coupon/public/login|Mozilla Firefox|windows|||
+04-20-2017 | 15:18:29 |   192.168.4.23|user|Sign In Page|http://localhost/coupon/public/sign-in/page|Mozilla Firefox|windows|||
+04-20-2017 | 15:18:34 |   192.168.4.23|user|LogIn|http://localhost/coupon/public/sign-in/page|Mozilla Firefox|windows|||
+04-20-2017 | 15:18:35 |   192.168.4.23|user|Sign In Page|http://localhost/coupon/public/sign-in/page|Mozilla Firefox|windows|||
+04-20-2017 | 15:22:02 |   192.168.4.23|user|Client Logout|http://localhost/coupon/public/client/logout/01767679544|Mozilla Firefox|windows|||
+04-20-2017 | 15:26:21 |   192.168.4.23|user|Sign In Page|http://localhost/coupon/public/sign-in/page|Mozilla Firefox|windows|||
+04-20-2017 | 15:27:42 |   192.168.4.23|user|Sign In Page|http://localhost/coupon/public/sign-in/page|Mozilla Firefox|windows|||
+04-20-2017 | 15:40:48 |   192.168.4.23|user|LogIn|http://localhost/coupon/public/login|Mozilla Firefox|windows|||
+04-20-2017 | 15:40:54 |   192.168.4.23|user|Merchant|http://localhost/coupon/public/dashboard/merchant-page|Mozilla Firefox|windows|||
+04-20-2017 | 15:41:42 |   192.168.4.23|user|All Merchant List|http://localhost/coupon/public/dashboard/all-merchant/list|Mozilla Firefox|windows|||
+04-20-2017 | 15:41:49 |   192.168.4.23|user|Merchant Edit|http://localhost/coupon/public/dashboard/merchant/edit-/13|Mozilla Firefox|windows|||
+04-20-2017 | 15:41:54 |   192.168.4.23|user|Merchant Edit|http://localhost/coupon/public/dashboard/merchant/edit-/favicon.ico|Mozilla Firefox|windows|||
+04-20-2017 | 15:41:55 |   192.168.4.23|user|Merchant Details|http://localhost/coupon/public/dashboard/merchant-details/id-5|Mozilla Firefox|windows|||
+04-20-2017 | 15:41:58 |   192.168.4.23|user|Merchant Edit|http://localhost/coupon/public/dashboard/merchant/edit-/5|Mozilla Firefox|windows|||
+04-20-2017 | 15:42:04 |   192.168.4.23|user|Merchant Edit|http://localhost/coupon/public/dashboard/merchant/edit-/4|Mozilla Firefox|windows|||
+04-20-2017 | 15:44:56 |   192.168.4.23|user|Logout|http://localhost/coupon/public/logout|Mozilla Firefox|windows|||
+04-20-2017 | 15:44:57 |   192.168.4.23|user|LogIn|http://localhost/coupon/public/login|Mozilla Firefox|windows|||
+04-20-2017 | 15:45:04 |   192.168.4.23|user|Sign In Page|http://localhost/coupon/public/sign-in/page|Mozilla Firefox|windows|||
+04-20-2017 | 15:45:16 |   192.168.4.23|user|LogIn|http://localhost/coupon/public/sign-in/page|Mozilla Firefox|windows|||
+04-20-2017 | 15:45:18 |   192.168.4.23|user|Sign In Page|http://localhost/coupon/public/sign-in/page|Mozilla Firefox|windows|||

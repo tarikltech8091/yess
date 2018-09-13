@@ -1,0 +1,14 @@
+04-27-2017 | 14:15:40 |   192.168.4.23|user|Sign In Page|http://localhost/coupon/public/sign-in/page|Mozilla Firefox|windows|||
+04-27-2017 | 14:17:20 |   192.168.4.23|user|Sign In Page|http://localhost/coupon/public/sign-in/page|Mozilla Firefox|windows|||
+04-27-2017 | 14:44:58 |   192.168.4.23|user|Sign In Page|http://localhost/coupon/public/sign-in/page|Mozilla Firefox|windows|||
+04-27-2017 | 15:07:38 |   192.168.4.23|user|Sign In Page|http://localhost/coupon/public/sign-in/page|Mozilla Firefox|windows|||
+04-27-2017 | 15:07:39 |   192.168.4.23|user|Sign In Page|http://localhost/coupon/public/sign-in/page|Mozilla Firefox|windows|||
+04-27-2017 | 15:07:47 |   192.168.4.23|user|Sign In Page|http://localhost/coupon/public/sign-in/page|Mozilla Firefox|windows|||
+04-27-2017 | 15:35:58 |   192.168.4.23|user|Sign In Page|http://localhost/coupon/public/sign-in/page|Mozilla Firefox|windows|||
+04-27-2017 | 15:39:25 |   192.168.4.23|user|Sign In Page|http://localhost/coupon/public/sign-in/page|Mozilla Firefox|windows|||
+04-27-2017 | 16:03:09 |   192.168.4.23|user|Sign In Page|http://localhost/coupon/public/sign-in/page|Mozilla Firefox|windows|||
+04-27-2017 | 16:06:10 |   192.168.4.23|user|Sign In Page|http://localhost/coupon/public/sign-in/page|Google Chrome|windows|||
+04-27-2017 | 16:06:13 |   192.168.4.23|user|LogIn|http://localhost/coupon/public/login|Google Chrome|windows|||
+04-27-2017 | 16:06:15 |   192.168.4.23|user|LogIn|http://localhost/coupon/public/login|Google Chrome|windows|||
+04-27-2017 | 16:06:19 |   192.168.4.23|user|LogIn|http://localhost/coupon/public/login|Google Chrome|windows|||
+04-27-2017 | 16:31:14 |   192.168.4.23|user|Sign In Page|http://localhost/coupon/public/sign-in/page|Mozilla Firefox|windows|||

@@ -1,0 +1,1 @@
+05-09-2017 | 13:06:08 |   192.168.4.23|user|http://localhost/coupon/public/coupon/api/v1/getAccessToken|Message : Undefined index: HTTP_USER_AGENT, File : G:\xampp\htdocs\coupon\app\System.php, Line : 267

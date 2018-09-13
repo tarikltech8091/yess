@@ -1,0 +1,8 @@
+09-04-2018 | 12:25:23 |   127.0.0.1|33|Log In|Google Chrome|linux|||
+09-04-2018 | 13:12:38 |   127.0.0.1|33|Log In|Google Chrome|linux|||
+09-04-2018 | 13:28:05 |   127.0.0.1|33|Log In|Google Chrome|linux|||
+09-04-2018 | 13:28:13 |   127.0.0.1|33|Log Out|Google Chrome|linux|||
+09-04-2018 | 13:28:34 |   127.0.0.1|33|Log In|Google Chrome|linux|||
+09-04-2018 | 14:25:51 |   127.0.0.1|33|Log In|Google Chrome|linux|||
+09-04-2018 | 15:08:13 |   127.0.0.1|33|Log In|Google Chrome|linux|||
+09-04-2018 | 18:10:14 |   127.0.0.1|33|Log Out|Google Chrome|linux|||

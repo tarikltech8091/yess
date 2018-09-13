@@ -1,0 +1,10 @@
+06-11-2017 | 11:38:54 |   192.168.4.23|1|Log In|Mozilla Firefox|windows|||
+06-11-2017 | 11:39:37 |   192.168.4.23|1|Log In|Mozilla Firefox|windows|||
+06-11-2017 | 11:39:45 |   192.168.4.23|1|Log Out|Mozilla Firefox|windows|||
+06-11-2017 | 11:40:13 |   192.168.4.23|5|Log In|Mozilla Firefox|windows|||
+06-11-2017 | 11:40:24 |   192.168.4.23|5|Log In|Mozilla Firefox|windows|||
+06-11-2017 | 11:40:31 |   192.168.4.23|5|Log Out|Mozilla Firefox|windows|||
+06-11-2017 | 11:40:59 |   192.168.4.23|1|Log Out|Mozilla Firefox|windows|||
+06-11-2017 | 11:46:40 |   192.168.4.23|3|Log In|Mozilla Firefox|windows|||
+06-11-2017 | 12:55:54 |   192.168.4.23|3|Log Out|Mozilla Firefox|windows|||
+06-11-2017 | 12:56:10 |   192.168.4.23|33|Log In|Mozilla Firefox|windows|||
