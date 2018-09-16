@@ -1,0 +1,200 @@
+09-15-2018 | 10:15:06 |   127.0.0.1|user|Home|http://localhost:44|Google Chrome|linux|||
+09-15-2018 | 10:15:10 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-15-2018 | 10:15:11 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-15-2018 | 10:15:11 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-15-2018 | 10:15:12 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-15-2018 | 10:15:13 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-15-2018 | 10:15:13 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-15-2018 | 10:15:14 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-15-2018 | 10:15:15 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-15-2018 | 10:15:15 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-15-2018 | 10:15:16 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-15-2018 | 10:15:17 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-15-2018 | 10:15:17 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-15-2018 | 10:15:18 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-15-2018 | 10:15:18 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-15-2018 | 10:15:19 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-15-2018 | 10:15:20 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-15-2018 | 10:15:20 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-15-2018 | 10:15:21 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-15-2018 | 10:15:21 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-15-2018 | 10:15:22 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-15-2018 | 10:15:23 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-15-2018 | 10:15:23 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-15-2018 | 10:15:24 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-15-2018 | 10:15:24 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-15-2018 | 10:15:25 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-15-2018 | 10:15:26 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-15-2018 | 10:15:26 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-15-2018 | 10:15:27 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-15-2018 | 10:15:28 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-15-2018 | 10:15:28 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-15-2018 | 10:15:29 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-15-2018 | 10:30:49 |   127.0.0.1|user|Sign In Page|http://localhost:44/sign-in/page|Google Chrome|linux|||
+09-15-2018 | 10:30:51 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-15-2018 | 12:27:18 |   127.0.0.1|user|Home|http://localhost:44|Google Chrome|linux|||
+09-15-2018 | 12:27:19 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-15-2018 | 12:27:20 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-15-2018 | 12:27:21 |   127.0.0.1|user|AdminLogIn|http://localhost:44/adminlogin|Google Chrome|linux|||
+09-15-2018 | 12:27:22 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-15-2018 | 12:27:23 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-15-2018 | 12:27:24 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-15-2018 | 12:27:30 |   127.0.0.1|user|LogIn|http://localhost:44/login|Google Chrome|linux|||
+09-15-2018 | 12:27:32 |   127.0.0.1|user|Dashboard|http://localhost:44/dashboard/admin|Google Chrome|linux|||
+09-15-2018 | 12:27:33 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-15-2018 | 12:27:33 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-15-2018 | 12:27:41 |   127.0.0.1|user|Active Deal List|http://localhost:44/dashboard/active-deal|Google Chrome|linux|||
+09-15-2018 | 12:27:42 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-15-2018 | 12:27:42 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-15-2018 | 12:27:52 |   127.0.0.1|user|Active Deal List|http://localhost:44/dashboard/active-deal?coupon_name=&merchant_name=&search_from=2015-05-06&search_to=2018-09-15&user_name=0|Google Chrome|linux|||
+09-15-2018 | 12:27:53 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-15-2018 | 12:27:53 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-15-2018 | 12:28:02 |   127.0.0.1|user|All Coupon Confirm Transaction List|http://localhost:44/dashboard/all-coupon/confirm/transaction/list|Google Chrome|linux|||
+09-15-2018 | 12:28:03 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-15-2018 | 12:28:04 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-15-2018 | 12:28:07 |   127.0.0.1|user|Coupon Transaction Pdf|http://localhost:44/dashboard/transaction/pdf/from-2018-09-15/to-2018-09-15/mid-0/coid-0/cuid-0|Google Chrome|linux|||
+09-15-2018 | 12:35:39 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-15-2018 | 12:35:39 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-15-2018 | 12:35:46 |   127.0.0.1|user|Category|http://localhost:44/dashboard/category|Google Chrome|linux|||
+09-15-2018 | 12:35:56 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-15-2018 | 12:35:57 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-15-2018 | 12:36:02 |   127.0.0.1|user|Sub Category|http://localhost:44/dashboard/sub-category|Google Chrome|linux|||
+09-15-2018 | 12:36:34 |   127.0.0.1|user|Sub Category|http://localhost:44/dashboard/sub-category|Google Chrome|linux|||
+09-15-2018 | 12:39:25 |   127.0.0.1|user|Home Slider|http://localhost:44/dashboard/home-slider|Google Chrome|linux|||
+09-15-2018 | 12:39:28 |   127.0.0.1|user|All Coupon Confirm Transaction List|http://localhost:44/dashboard/all-coupon/confirm/transaction/list|Google Chrome|linux|||
+09-15-2018 | 12:44:36 |   127.0.0.1|user|Active Deal List|http://localhost:44/dashboard/active-deal?coupon_name=&merchant_name=&search_from=2015-05-06&search_to=2018-09-15&user_name=0|Google Chrome|linux|||
+09-15-2018 | 12:44:39 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-15-2018 | 12:44:40 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-15-2018 | 12:44:47 |   127.0.0.1|user|Category|http://localhost:44/dashboard/category|Google Chrome|linux|||
+09-15-2018 | 12:44:48 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-15-2018 | 12:44:49 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-15-2018 | 12:44:52 |   127.0.0.1|user|Category|http://localhost:44/dashboard/category|Google Chrome|linux|||
+09-15-2018 | 12:44:52 |   127.0.0.1|user|Category|http://localhost:44/dashboard/category|Google Chrome|linux|||
+09-15-2018 | 12:44:53 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-15-2018 | 12:44:54 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-15-2018 | 12:44:56 |   127.0.0.1|user|Category Edit|http://localhost:44/dashboard/category/edit-/8|Google Chrome|linux|||
+09-15-2018 | 12:44:57 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-15-2018 | 12:44:58 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-15-2018 | 12:45:01 |   127.0.0.1|user|Category Update|http://localhost:44/dashboard/category/update-8|Google Chrome|linux|||
+09-15-2018 | 12:45:01 |   127.0.0.1|user|Category|http://localhost:44/dashboard/category|Google Chrome|linux|||
+09-15-2018 | 12:45:02 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-15-2018 | 12:45:02 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-15-2018 | 12:45:04 |   127.0.0.1|user|Category Delete|http://localhost:44/dashboard/category/delete-/8|Google Chrome|linux|||
+09-15-2018 | 12:45:05 |   127.0.0.1|user|Category|http://localhost:44/dashboard/category|Google Chrome|linux|||
+09-15-2018 | 12:45:06 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-15-2018 | 12:45:06 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-15-2018 | 12:45:12 |   127.0.0.1|user|All Coupon List|http://localhost:44/dashboard/all-coupon/list|Google Chrome|linux|||
+09-15-2018 | 12:45:12 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-15-2018 | 12:45:13 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-15-2018 | 12:45:14 |   127.0.0.1|user|All Merchant List|http://localhost:44/dashboard/all-merchant/list|Google Chrome|linux|||
+09-15-2018 | 12:45:15 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-15-2018 | 12:45:15 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-15-2018 | 12:45:17 |   127.0.0.1|user|Merchant Page|http://localhost:44/dashboard/merchant-page|Google Chrome|linux|||
+09-15-2018 | 12:45:18 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-15-2018 | 12:45:18 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-15-2018 | 12:45:21 |   127.0.0.1|user|Home Slider|http://localhost:44/dashboard/home-slider|Google Chrome|linux|||
+09-15-2018 | 12:45:22 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-15-2018 | 12:45:23 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-15-2018 | 12:45:23 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-15-2018 | 12:45:24 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-15-2018 | 12:45:24 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-15-2018 | 12:45:25 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-15-2018 | 12:45:25 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-15-2018 | 12:45:27 |   127.0.0.1|user|Ajax Branch List|http://localhost:44/ajax/branch/list-3|Google Chrome|linux|||
+09-15-2018 | 12:45:38 |   127.0.0.1|user|Home Slider|http://localhost:44/dashboard/home-slider|Google Chrome|linux|||
+09-15-2018 | 12:45:39 |   127.0.0.1|user|Home Slider|http://localhost:44/dashboard/home-slider|Google Chrome|linux|||
+09-15-2018 | 12:45:40 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-15-2018 | 12:45:40 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-15-2018 | 12:45:41 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-15-2018 | 12:45:42 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-15-2018 | 12:45:42 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-15-2018 | 12:45:43 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-15-2018 | 12:45:47 |   127.0.0.1|user|Home Slider Delete|http://localhost:44/dashboard/home-slider/delete-/20|Google Chrome|linux|||
+09-15-2018 | 12:45:47 |   127.0.0.1|user|Home Slider|http://localhost:44/dashboard/home-slider|Google Chrome|linux|||
+09-15-2018 | 12:45:48 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-15-2018 | 12:45:49 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-15-2018 | 12:45:49 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-15-2018 | 12:45:50 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-15-2018 | 12:45:51 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-15-2018 | 12:45:51 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-15-2018 | 12:45:52 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-15-2018 | 12:45:55 |   127.0.0.1|user|Home Slider Change Status|http://localhost:44/dashboard/home-slider/change-status/id-1/1|Google Chrome|linux|||
+09-15-2018 | 12:45:55 |   127.0.0.1|user|Home Slider|http://localhost:44/dashboard/home-slider|Google Chrome|linux|||
+09-15-2018 | 12:45:56 |   127.0.0.1|user|Home Slider|http://localhost:44/dashboard/home-slider|Google Chrome|linux|||
+09-15-2018 | 12:45:56 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-15-2018 | 12:45:57 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-15-2018 | 12:45:58 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-15-2018 | 12:45:59 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-15-2018 | 12:46:00 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-15-2018 | 12:46:00 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-15-2018 | 12:46:01 |   127.0.0.1|user|Home Slider Change Status|http://localhost:44/dashboard/home-slider/change-status/id-1/-1|Google Chrome|linux|||
+09-15-2018 | 12:46:01 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-15-2018 | 12:46:01 |   127.0.0.1|user|Home Slider|http://localhost:44/dashboard/home-slider|Google Chrome|linux|||
+09-15-2018 | 12:46:02 |   127.0.0.1|user|Home Slider|http://localhost:44/dashboard/home-slider|Google Chrome|linux|||
+09-15-2018 | 12:46:03 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-15-2018 | 12:46:03 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-15-2018 | 12:46:04 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-15-2018 | 12:46:05 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-15-2018 | 12:46:05 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-15-2018 | 12:46:06 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-15-2018 | 12:46:07 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-15-2018 | 12:46:20 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-15-2018 | 12:46:22 |   127.0.0.1|user|Home Slider|http://localhost:44/dashboard/home-slider|Google Chrome|linux|||
+09-15-2018 | 12:46:23 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-15-2018 | 12:46:23 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-15-2018 | 12:46:24 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-15-2018 | 12:46:24 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-15-2018 | 12:46:25 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-15-2018 | 12:46:25 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-15-2018 | 12:46:26 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-15-2018 | 12:46:27 |   127.0.0.1|user|Ajax Branch List|http://localhost:44/ajax/branch/list-21|Google Chrome|linux|||
+09-15-2018 | 12:46:33 |   127.0.0.1|user|Home Slider|http://localhost:44/dashboard/home-slider|Google Chrome|linux|||
+09-15-2018 | 12:46:34 |   127.0.0.1|user|Home Slider|http://localhost:44/dashboard/home-slider|Google Chrome|linux|||
+09-15-2018 | 12:46:35 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-15-2018 | 12:46:35 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-15-2018 | 12:46:36 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-15-2018 | 12:46:37 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-15-2018 | 12:46:37 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-15-2018 | 12:46:38 |   127.0.0.1|user|Home Slider Change Status|http://localhost:44/dashboard/home-slider/change-status/id-21/-1|Google Chrome|linux|||
+09-15-2018 | 12:46:38 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-15-2018 | 12:46:39 |   127.0.0.1|user|Home Slider|http://localhost:44/dashboard/home-slider|Google Chrome|linux|||
+09-15-2018 | 12:46:39 |   127.0.0.1|user|Home Slider|http://localhost:44/dashboard/home-slider|Google Chrome|linux|||
+09-15-2018 | 12:46:40 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-15-2018 | 12:46:41 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-15-2018 | 12:46:42 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-15-2018 | 12:46:42 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-15-2018 | 12:46:43 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-15-2018 | 12:46:44 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-15-2018 | 12:46:46 |   127.0.0.1|user|Home Slider Delete|http://localhost:44/dashboard/home-slider/delete-/21|Google Chrome|linux|||
+09-15-2018 | 12:46:46 |   127.0.0.1|user|Home Slider|http://localhost:44/dashboard/home-slider|Google Chrome|linux|||
+09-15-2018 | 12:46:47 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-15-2018 | 12:46:48 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-15-2018 | 12:46:48 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-15-2018 | 12:46:49 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-15-2018 | 12:46:50 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-15-2018 | 12:46:50 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-15-2018 | 12:46:52 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-15-2018 | 12:47:14 |   127.0.0.1|user|Category|http://localhost:44/dashboard/category|Google Chrome|linux|||
+09-15-2018 | 12:47:15 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-15-2018 | 12:47:16 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-15-2018 | 12:47:19 |   127.0.0.1|user|Category|http://localhost:44/dashboard/category|Google Chrome|linux|||
+09-15-2018 | 12:47:19 |   127.0.0.1|user|Category|http://localhost:44/dashboard/category|Google Chrome|linux|||
+09-15-2018 | 12:47:20 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-15-2018 | 12:47:21 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-15-2018 | 12:47:22 |   127.0.0.1|user|Category Edit|http://localhost:44/dashboard/category/edit-/9|Google Chrome|linux|||
+09-15-2018 | 12:47:23 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-15-2018 | 12:47:23 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-15-2018 | 12:47:25 |   127.0.0.1|user|Category Update|http://localhost:44/dashboard/category/update-9|Google Chrome|linux|||
+09-15-2018 | 12:47:25 |   127.0.0.1|user|Category|http://localhost:44/dashboard/category|Google Chrome|linux|||
+09-15-2018 | 12:47:26 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-15-2018 | 12:47:27 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-15-2018 | 12:47:28 |   127.0.0.1|user|Category Delete|http://localhost:44/dashboard/category/delete-/9|Google Chrome|linux|||
+09-15-2018 | 12:47:29 |   127.0.0.1|user|Category|http://localhost:44/dashboard/category|Google Chrome|linux|||
+09-15-2018 | 12:47:29 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-15-2018 | 12:47:30 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-15-2018 | 13:32:25 |   127.0.0.1|user|Category|http://localhost:44/dashboard/category|Google Chrome|linux|||
+09-15-2018 | 13:32:26 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-15-2018 | 13:32:26 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-15-2018 | 13:44:37 |   127.0.0.1|user|Dashboard|http://localhost:44/dashboard/admin|Google Chrome|linux|||
+09-15-2018 | 13:44:38 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||
+09-15-2018 | 13:44:39 |   127.0.0.1|user|Error 404|http://localhost:44/error/request|Google Chrome|linux|||

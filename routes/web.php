@@ -113,14 +113,14 @@
 
 	Route::get('/logout',array('as'=>'Logout' , 'uses' =>'SystemAuthController@AdminLogout'));
 
-    	#Enternal Error Page
-    	Route::get('/error/request',array('as'=>'Error 404', 'uses'=>'SystemAuthController@ErrorRequestPage'));
-    
-    	#Errors Page
-    	Route::get('/errors/page',array('as'=>'Errors Page', 'uses'=>'SystemAuthController@Page404'));
+	#Enternal Error Page
+	Route::get('/error/request',array('as'=>'Error 404', 'uses'=>'SystemAuthController@ErrorRequestPage'));
 
-    	#Errors Page 503
-    	Route::get('/errors/page/503',array('as'=>'Errors Page 503', 'uses'=>'SystemAuthController@Page503'));
+	#Errors Page
+	Route::get('/errors/page',array('as'=>'Errors Page', 'uses'=>'SystemAuthController@Page404'));
+
+	#Errors Page 503
+	Route::get('/errors/page/503',array('as'=>'Errors Page 503', 'uses'=>'SystemAuthController@Page503'));
 
 
 
